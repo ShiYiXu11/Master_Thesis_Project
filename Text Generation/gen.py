@@ -1,17 +1,16 @@
 import torch
 import gc  # Import the garbage collector module
 import os
-os.environ["VLLM_USE_V1"] = "1"             # <--- 强制禁用不稳定的 V1 引擎
-os.environ["NCCL_P2P_DISABLE"] = "1"        # 尝试开启 P2P，如果报错可以改为 "1"
+os.environ["VLLM_USE_V1"] = "1"            
+os.environ["NCCL_P2P_DISABLE"] = "1"     
 os.environ["NCCL_P2P_LEVEL"] = "NVL" 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1" 
-os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn" # 提高多进程稳定性
+os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn" 
 os.environ["HF_HOME"] = "/work/shiyxu/hf_cache"
 os.environ["HF_TOKEN"] = "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"
 print("Configuring vLLM environment...")
 print(f"VLLM_USE_V1: {os.environ.get('VLLM_USE_V1')}")
 from vllm import LLM, SamplingParams
-# We assume you have a local 'prompts.py' with this function
 from prompts import gen_zero_shot_prompt 
 import pandas as pd
 import torch.distributed as dist

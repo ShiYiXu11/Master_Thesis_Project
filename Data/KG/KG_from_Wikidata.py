@@ -440,17 +440,13 @@ def log(msg: str):
 
 
 def extract_graph_from_parquet_in_chunks(all_rows: pd.DataFrame, chunk_size=100000, output_dir="./test_output/graph_chunks"):
-    """
-    分块处理 DataFrame，生成 NetworkX 图，每块保存到文件。
-    最后再合并所有块生成完整图。
-    """
+
     os.makedirs(output_dir, exist_ok=True)
 
     num_rows = len(all_rows)
     num_chunks = (num_rows + chunk_size - 1) // chunk_size
     chunk_files = []
 
-    # 处理每个块
     for i in range(num_chunks):
         chunk_file = os.path.join(output_dir, f"graph_chunk_{i}.pkl")
         chunk_files.append(chunk_file)
@@ -462,16 +458,13 @@ def extract_graph_from_parquet_in_chunks(all_rows: pd.DataFrame, chunk_size=1000
         log(f"🔧 Processing chunk {i} / {num_chunks}")
         chunk_df = all_rows.iloc[i*chunk_size:(i+1)*chunk_size]
 
-        # 构建图（这里用示例逻辑，请替换成你真实的 extract_graph_from_parquet）
-
         G_chunk = extract_graph_from_parquet(chunk_df)
 
-        # 保存 chunk
         with open(chunk_file, "wb") as f:
             pickle.dump(G_chunk, f)
         log(f"✅ Saved chunk {i} to {chunk_file}")
 
-    # 合并所有图块
+
     log("🧱 Merging all graph chunks...")
     full_graph = nx.Graph()
     for chunk_file in chunk_files:
