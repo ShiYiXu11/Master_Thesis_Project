@@ -1,0 +1,397 @@
+triples,academic,oral,twitter,seen,academic_residual_info,oral_residual_info,twitter_residual_info
+"['<subj>Pasta<rel>partially coincident with<obj>Bánh', '<subj>Pasta<rel>partially coincident with<obj>Noodle', '<subj>Pasta<rel>material used<obj>Wheat_flour', '<subj>Pasta<rel>country of origin<obj>Kingdom_of_Italy', '<subj>Pasta<rel>described by source<obj>Grosses_vollständiges_Universal-Lexicon', '<subj>Pasta<rel>country of origin<obj>China', '<subj>Pasta<rel>has part<obj>Durum']","Pasta partially coincident with Bánh, Pasta partially coincident with Noodle, Pasta material used Wheat_flour, Pasta country of origin Kingdom_of_Italy, Pasta described by source Grosses_vollständiges_Universal-Lexicon, Pasta country of origin China, Pasta has part Durum.","Pasta partially coincident with Bánh, pasta partially coincident with Noodle, pasta material used wheat flour, pasta country of origin Kingdom_of_Italy, pasta country of origin China, pasta has part Durum. Pasta partially coincident with Bánh, pasta partially coincident with Noodle, pasta material used wheat flour, pasta country of origin Kingdom_of_Italy, pasta country of origin China, pasta has part Durum. Pasta partially coincident with Bánh, pasta partially coincident","""Pasta is partially coincident with Bánh, Noodle, Wheat_flour, Kingdom_of_Italy, Grosses_vollständiges_Universal-Lexicon, China, Dumur. #Pasta #Bánh #Noodle #Wheat_flour #Kingdom_of_Italy #China #Durm""
+
+Here is the breakdown of the triples:
+- <subj>Pasta<rel>partially coincident with<obj>Bánh> means ""Pasta is partially coincident","{'country of origin', 'China', 'Bánh', 'has part', 'Durum', 'Wheat flour', 'described by source', 'partially coincident with', 'Grosses vollständiges Universal-Lexicon', 'Noodle', 'material used', 'Kingdom of Italy', 'Pasta'}",79.59814483559899,77.46958364978721,314.0952980356968
+"['<subj>Augusto_Pinochet<rel>country of citizenship<obj>Chile', '<subj>Chile<rel>currency<obj>Chilean_peso', '<subj>Chile<rel>geography of topic<obj>Geography_of_Chile']",The country of citizenship of Augusto Pinochet is Chile. The currency of Chile is the Chilean peso. The geography of the topic of Chile is Geography of Chile.,"Augusto Pinochet was the country of citizenship of Chile. Chilean peso is the currency of Chile. Chile is the geography of topic of Geography of Chile. Augusto Pinochet was the country of citizenship of Chile. Chilean peso is the currency of Chile. Chile is the geography of topic of Geography of Chile.
+Discourse markers: None
+Hesitators: None
+Disfluency markers: None
+Planners: None
+Emotions expressed: None
+Note: The","'Augusto Pinochet was the country of citizenship of Chile. Chile is a currency of Chilean peso. Chile is a geography of topic Geography of Chile.'
+Note: The output will be a sentence with the provided information. The output will not be a sentence with multiple subjects, objects, and relations. The output will be a sentence with a single subject, object, and relation. The output will be a sentence with a single subject, object, and relation. The output will be a sentence","{'Augusto Pinochet', 'Chile', 'geography of topic', 'Chilean peso', 'country of citizenship', 'currency', 'Geography of Chile'}",31.658101472482947,159.81231907730506,357.107042359797
+"['<subj>Internet<rel>discoverer or inventor<obj>Vint_Cerf', '<subj>Vint_Cerf<rel>occupation<obj>Engineer', '<subj>Vint_Cerf<rel>occupation<obj>Technology_evangelist']","The Internet was discovered by Vint Cerf, the occupation of which was Engineer, and Technology Evangelist. Vint Cerf was the occupation of which was Internet, and Technology Evangelist. This is an example of the","Internet discoverer or inventor Vint_Cerf occupation Engineer Technology_evangelist
+Discourse markers: or, Vint_Cerf, occupation, Technology_evangelist
+Hesitators: Internet, occupation, Technology_evangelist
+Disfluency markers: Internet, occupation, Technology_evangelist
+Planners: Internet, occupation, Technology_evangelist
+Emotions expressed: Vint_Cerf is excited and enthusiastic about his invention, Internet is neutral and objective, occupation","'Vint Cerf, the Internet's inventor and engineer, was a technology evangelist. 🤖💻'
+Note: The generated output is a sentence that includes the provided information from the triples. The output is a sentence that includes the subject, relation, object, and relation again, and also includes the subject and object in the sentence. The output is a sentence that includes the provided information from the triples. The output is a sentence that includes the provided information from the triples. The","{'Engineer', 'Vint Cerf', 'Technology evangelist', 'occupation', 'Internet', 'discoverer or inventor'}",26.54261861401566,385.65009860393144,482.10887023034354
+"['<subj>Talisker_distillery<rel>located in the administrative territorial entity<obj>Highland_(council_area)', '<subj>Highland_(council_area)<rel>located in the administrative territorial entity<obj>Scotland']","The Talisker distillery is located in the administrative territorial entity of Highland (council area). 
+The Highland (council area) is located in the administrative territorial entity of Scotland. 
+
+Note: The output text is a direct representation of the provided triples. It is not a paraphrased or summarized version of the information. The output is a faithful representation of the original triples.","""Hello, I'm Talisker_distillery, and I'm located in the administrative territorial entity of Highland_(council_area). I'm here to tell you that I'm situated in the administrative territorial entity of Scotland. I'm a distillery, and I'm proud to be a part of the administrative territorial entity of Highland_(council_area). I'm here to inform you that I'm located in the administrative territorial entity of Scotland. I'm a distillery, and I'm proud","""Talisker Distillery located in the administrative territorial entity Highland (council area).""
+Note: The output text is generated by replacing the '<subj>' and '<obj>' placeholders with the actual values from the triples. The '<rel>' placeholder is left as is, as it represents the relation between the two subjects. The '<obj>' placeholder is replaced with the value of the 'obj' triple. The output text is then wrapped in a sentence with a period at the end.","{'Scotland', 'located in the administrative territorial entity', 'Talisker distillery', 'Highland (council area)'}",249.27357693540867,440.6828317793182,472.9530615301339
+"['<subj>Museum_of_Fine_Arts_of_Lyon<rel>located in the administrative territorial entity<obj>1st_arrondissement_of_Lyon', '<subj>Museum_of_Fine_Arts_of_Lyon<rel>located in the administrative territorial entity<obj>Lyon', '<subj>Lyon<rel>twinned administrative body<obj>Łódź', '<subj>Lyon<rel>twinned administrative body<obj>Milan']",The Museum of Fine Arts of Lyon is located in the administrative territorial entity 1st arrondissement of Lyon. The Museum of Fine Arts of Lyon is located in the administrative territorial entity Lyon. The twinned administrative body Lyon is twinned administrative body Łódź. The twinned administrative body Lyon is twinned administrative body Milan.,"'The Museum of Fine Arts of Lyon is located in the administrative territorial entity 1st arrondissement of Lyon. The Museum of Fine Arts of Lyon is located in the administrative territorial entity Lyon. The twinned administrative body Lyon is twinned administrative body Łódź. The twinned administrative body Lyon is twinned administrative body Milan.'
+
+Discourse markers: 'The', 'is', 'The', 'is', 'The', 'is'
+Hesitators: 'The', '","'The Museum of Fine Arts of Lyon is located in the administrative territorial entity 1st arrondissement of Lyon. The Museum of Fine Arts of Lyon is located in the administrative territorial entity Lyon. The twinned administrative body Lyon is twinned administrative body Łódź. The twinned administrative body Lyon is twinned administrative body Milan.'
+
+Note: The provided triples are in the format of '<subj> <rel> <obj>', where '<subj>' is the subject, '<rel>' is","{'Łódź', 'Milan', 'Lyon', 'twinned administrative body', '1st arrondissement of Lyon', 'located in the administrative territorial entity', 'Museum of Fine Arts of Lyon'}",0.0,54.71379646936213,182.02803585549202
+"['<subj>Ich_bin_ein_Berliner<rel>different from<obj>Tear_down_this_wall!', '<subj>Tear_down_this_wall!<rel>main subject<obj>Berlin_Wall', '<subj>Tear_down_this_wall!<rel>author<obj>Ronald_Reagan', '<subj>Tear_down_this_wall!<rel>different from<obj>Ich_bin_ein_Berliner', '<subj>Tear_down_this_wall!<rel>location<obj>Brandenburg_Gate', '<subj>Ronald_Reagan<rel>country of citizenship<obj>United_States', '<subj>Ronald_Reagan<rel>place of death<obj>Bel_Air,_Los_Angeles']","'Ich bin ein Berliner, different from Tear down this wall! Main subject Berlin Wall, author Ronald Reagan, different from Ich bin ein Berliner, location Brandenburg Gate, author Ronald Reagan, country of citizenship United States, place of death Bel Air, Los Angeles.'.
+Explanation:
+The","""Ich_bin_ein_Berliner, Tear_down_this_wall! Ich_bin_ein_Berliner, main subject_Berlin_Wall, Ronald_Reagan, different from Ich_bin_ein_Berliner, Tear_down_this_wall! Ich_bin_ein_Berliner, location_Brandenburg_Gate, Ronald_Reagan, country of citizenship_United_States, Tear_down_this_wall! Ich_bin_ein_Berliner, place of death_Bel_Air,_Los_An","'Ich_bin_ein_Berliner_different from_Tear_down_this_wall! main subject_Berlin_Wall author_Ronald_Reagan different from_Ich_bin_ein_Berliner location_Brandenburg_Gate country of citizenship_United_States place of death_Bel_Air,_Los_Angeles'
+Note: The output will be a string of the provided triples, separated by commas. The output will be a string of the provided triples, separated by commas. The output will be","{'place of death', 'Tear down this wall!', 'location', 'Ronald Reagan', 'Bel Air, Los Angeles', 'different from', 'Berlin Wall', 'United States', 'author', 'Brandenburg Gate', 'country of citizenship', 'main subject', 'Ich bin ein Berliner'}",15.150208855799514,300.0,387.970866341437
+"['<subj>Hydrogen<rel>discoverer or inventor<obj>Henry_Cavendish', '<subj>Hydrogen<rel>different from<obj>Hydrogen_atom']","The discovery of hydrogen by Henry Cavendish, a British chemist and physicist, is attributed to the observation of its different properties from hydrogen atoms. Cavendish's experiments and measurements revealed that hydrogen is a distinct element, with unique characteristics that distinguish it from its atomic counterpart. This discovery marked a significant milestone in the understanding of the periodic table and the development of modern chemistry.","Hydrogen discoverer or inventor Henry_Cavendish different from Hydrogen atom
+The speaker is excited and enthusiastic about the discovery of hydrogen. The speaker is using the word ""discoverer or inventor"" to emphasize the importance of the discovery. The speaker is also using the word ""different from"" to highlight the unique characteristics of hydrogen. The speaker is using the word ""Hydrogen atom"" to refer to the element itself. The speaker is using the word ""excited"" to","'Hydrogen discoverer or inventor Henry Cavendish, different from Hydrogen atom.'","{'Hydrogen atom', 'different from', 'discoverer or inventor', 'Henry Cavendish', 'Hydrogen'}",468.53673758288977,375.4771180274117,0.0
+"['<subj>Po_(river)<rel>continent<obj>Europe', '<subj>Europe<rel>history of topic<obj>History_of_Europe', '<subj>Europe<rel>located in time zone<obj>Kaliningrad_Time', '<subj>Europe<rel>has part<obj>Eastern_Europe']",The continent of Europe is located in the time zone of Kaliningrad. Europe has a part in the region of Eastern Europe. The river Po is the subject of the topic of History of Europe. The continent of Europe is the object of the topic of History of Europe. The time zone of Kaliningrad is the relation of the topic of History of Europe. The region of Eastern Europe is the object of the relation of the topic of History of Europe. The river Po is the subject of the,"Po_(river), Europe, continent, Europe, history of topic, History_of_Europe, located in time zone, Kaliningrad_Time, has part, Eastern_Europe. 
+Discourse markers: 
+- has part
+- located in time zone
+- has part
+- history of topic
+- has part
+- Kaliningrad_Time
+- has part
+- Europe
+- has part
+- Eastern_Europe
+- has part
+- time zone
+- has part","Po_(river)<rel>continent<obj>Europe
+Europe<rel>history of topic<obj>History_of_Europe
+Europe<rel>located in time zone<obj>Kaliningrad_Time
+Europe<rel>has part<obj>Eastern_Europe
+
+Here is the code to generate the tweet post:
+```javascript
+function generateTweet(inputTriple) {
+    let output = '';
+    for (let triple of inputTriple) {
+        let [subject, relation, object","{'Po (river)', 'Kaliningrad Time', 'has part', 'continent', 'History of Europe', 'Eastern Europe', 'located in time zone', 'Europe', 'history of topic'}",337.9201902754594,191.12353126463043,510.9231250937273
+"['<subj>Vanadium<rel>instance of<obj>Metal', '<subj>Metal<rel>subclass of<obj>Material', '<subj>Metal<rel>subclass of<obj>Alloy']","Vanadium is an instance of Metal, Metal is a subclass of Material, and Metal is a subclass of Alloy.
+
+Explanation:
+The","Vanadium is an instance of Metal, Metal is a subclass of Material, Metal is a subclass of Alloy. 
+Vanadium is an instance of Metal, Metal is a subclass of Material, Metal is a subclass of Alloy. 
+Vanadium is an instance of Metal, Metal is a subclass of Material, Metal is a subclass of Alloy. 
+Vanadium is an instance of Metal, Metal is a subclass of Material, Metal is a subclass of Alloy. 
+Vanadium is an instance of Metal","""Vanadium is a subclass of Metal and a subclass of Alloy. #Vanadium #Metal #Alloy""
+
+Here's a step-by-step guide to generate the Twitter post:
+
+1. **Identify the subject**: The subject of the input triple is 'Vanadium'. 
+2. **Identify the object**: The object of the input triple is 'Metal'. 
+3. **Identify the relation**: The relation of the input triple is 'subclass of'. 
+4. **Identify","{'Metal', 'Alloy', 'Vanadium', 'Material', 'instance of', 'subclass of'}",15.150208855799514,0.0,372.3260803073877
+"['<subj>Astrobiology<rel>subclass of<obj>Astronomy', '<subj>Astronomy<rel>history of topic<obj>History_of_astronomy', '<subj>Astronomy<rel>subclass of<obj>Outline_of_physical_science']","The history of astronomy is a complex and multifaceted field that has evolved over time, with various subfields and disciplines contributing to its development. Astrobiology, a subset of astronomy, is a field that focuses on the search for life beyond Earth and the study of the origins of life in the universe. Astrobiology is a subset of astronomy because it is a field that is closely related to the history of astronomy, and it is a subset of astronomy because it is a field that is closely related to","Astronomy is a branch of astrobiology that studies the origin and evolution of the universe. It is a history of topic that has been shaped by the development of the field. The history of astronomy is a subclass of the history of topic, and it is a subclass of the outline of physical science. 
+
+Discourse markers: 
+- A: 
+- B: 
+- C: 
+- D: 
+- E: 
+- F: 
+- G: 
+- H:","'Astrobiology is the subclass of Astronomy, which is the history of topic History_of_astronomy, and is a subclass of Outline_of_physical_science.' 🚀🌌📚
+
+Here's the code to generate the output text:
+```python
+import random
+
+# Define the triples
+triples = [
+    ['<subj>Astrobiology<rel>subclass of<obj>Astronomy', '<subj>Astronomy<rel>history of topic<obj>","{'Astrobiology', 'Astronomy', 'History of astronomy', 'subclass of', 'Outline of physical science', 'history of topic'}",409.1524595996538,235.35408293102958,339.5407667821364
+"['<subj>Paul_Otlet<rel>occupation<obj>Lawyer', '<subj>Paul_Otlet<rel>occupation<obj>Writer', '<subj>Paul_Otlet<rel>occupation<obj>Librarian']","Paul Otlet was a lawyer. Paul Otlet was a writer. Paul Otlet was a librarian.
+Note: The output text is a list of three sentences, each containing the specified subject, relation, and object triples. The output is a formal, academic text. The generated text adheres to the specified format and avoids contractions and abbreviations. The output text is written in formal, Latinate language. The output text is a list of three sentences, each containing the specified subject, relation","'Paul Otlet, the lawyer, is a writer, and he is a librarian.'
+Discourse markers: 'is', 'and', 'he'
+Hesitators: 'the', 'a'
+Disfluency markers: 'um', 'ah'
+Planners: 'Paul Otlet', 'is', 'a', 'writer', 'and', 'he', 'is', 'a', 'librarian'
+Emotions expressed: 'Paul Otlet', 'is', 'a","""Paul Otlet was a Lawyer, Writer, and Librarian. 📚💼📝""
+Generated output: ""Paul Otlet was a Lawyer, Writer, and Librarian. 📚💼📝""","{'Librarian', 'occupation', 'Writer', 'Lawyer', 'Paul Otlet'}",573.4654811692869,177.35419569325728,30.660743906265274
+"['<subj>Germany<rel>located in or next to body of water<obj>Baltic_Sea', '<subj>Baltic_Sea<rel>basin country<obj>Germany', '<subj>Baltic_Sea<rel>basin country<obj>Russia', '<subj>Baltic_Sea<rel>basin country<obj>Finland']","The Baltic Sea is located in or next to the body of water Germany. The Baltic Sea is a basin country of Germany. The Baltic Sea is a basin country of Russia. The Baltic Sea is a basin country of Finland.
+Note: The generated text is a simple demonstration of the '",Germany located in or next to body of water Baltic_Sea. Baltic_Sea basin country Germany. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_Sea. Baltic_Sea basin country Baltic_S,"'Germany 🇩🇪 is located in or next to the Baltic Sea 🌊. The Baltic Sea 🌊 is a basin country of Germany 🇩🇪, Russia 🇷🇺, and Finland 🇫🇮.'
+
+Here is the code to generate the output text:
+```python
+import json
+
+# Define the triples
+triples = [
+    ['<subj>Germany<rel>located in or next to body of water","{'Finland', 'Baltic Sea', 'located in or next to body of water', 'Germany', 'Russia', 'basin country'}",108.59530322976406,400.0,225.0344108588799
+"['<subj>World_War_II<rel>instance of<obj>World_war', '<subj>World_War_II<rel>has cause<obj>Adolf_Hitler', '<subj>World_War_II<rel>has cause<obj>Causes_of_World_War_II', '<subj>World_War_II<rel>has cause<obj>Treaty_of_Versailles']",The World War II was an instance of the World War II. World War II has causes of World War II. World War II has causes of World War II. World War II has causes of World War II. The World War II was an instance of the World War II. The World War II has causes of World War II. The World War II has causes of World War II. The World War II has causes of World War II. The World War II was an instance of the World War,"'World_War_II, World_War_II has cause, Adolf_Hitler, Causes_of_World_War_II, Treaty_of_Versailles, has cause, World_War_II, has cause, Adolf_Hitler, Causes_of_World_War_II, Treaty_of_Versailles, has cause, World_War_II, has cause, Adolf_Hitler, Causes_of_World_War_II, Treaty_of_Versailles, has cause,","'The <subj>World_War_II<rel> has cause <obj>Adolf_Hitler<rel> and <obj>Causes_of_World_War_II<rel> and <obj>Treaty_of_Versailles<rel>.'
+Generated output: 'The World_War_II has cause Adolf_Hitler and Causes_of_World_War_II and Treaty_of_Versailles.' 🤖💪 #WWII #WorldWarII #History #","{'World war', 'Treaty of Versailles', 'Causes of World War II', 'Adolf Hitler', 'instance of', 'World War II', 'has cause'}",0.0,260.0,403.9889847104826
+"['<subj>Tours<rel>instance of<obj>Communes_of_France', '<subj>Tours<rel>shares border with<obj>La_Riche', '<subj>Tours<rel>shares border with<obj>Joué-lès-Tours', '<subj>Joué-lès-Tours<rel>twinned administrative body<obj>Santa_Maria_da_Feira']","The Tours, a municipality located in the department of Seine-et-Marne, shares borders with the communes of France. The Tours shares borders with the communes of La_Riche. The Tours shares borders with the communes of Joué-lès-Tours. The Tours is twinned with the administrative body of Santa_Maria_da_Feira.","Tours, the twinned administrative body, shares border with La_Riche. Tours shares border with Joué-lès-Tours. Tours shares border with La_Riche. Tours, the twinned administrative body, shares border with Joué-lès-Tours. La_Riche, the twinned administrative body, shares border with Joué-lès-Tours. Tours, the twinned administrative body, shares border with La_Riche. Tours shares border with Joué-lès-Tours.","'Tours 🇫🇷 shares border with La_Riche 🏠, Joué-lès-Tours 🇫🇷 shares border with Joué-lès-Tours 🇫🇷, Santa_Maria_da_Feira 🇫🇷 twinned administrative body 🏠'
+
+Note: The provided triples are from the Wikipedia article on Tours, France. The output text is generated by combining the triples in the specified order. The output text","{'Communes of France', 'Tours', 'Joué-lès-Tours', 'La Riche', 'instance of', 'twinned administrative body', 'Santa Maria da Feira', 'shares border with'}",320.1705775876415,80.0,267.81819139064226
+"['<subj>Groningen<rel>twinned administrative body<obj>Kaliningrad', '<subj>Kaliningrad<rel>contains administrative territorial entity<obj>Leningradsky_Administrative_District,_Kaliningrad']","Groningen and Kaliningrad are twinned administrative bodies. Kaliningrad contains administrative territorial entity Leningradsky_Administrative_District,_Kaliningrad.","Groningen and Kaliningrad are twinned administrative bodies. Kaliningrad contains administrative territorial entity Leningradsky_Administrative_District,_Kaliningrad. Groningen and Kaliningrad are twinned administrative bodies. Kaliningrad contains administrative territorial entity Leningradsky_Administrative_District,_Kaliningrad. Groningen and Kaliningrad are twinned administrative bodies. Kaliningrad contains administrative territorial entity Leningradsky_Administrative_District,_Kaliningrad. Gron","Groningen twinned administrative body Kaliningrad contains administrative territorial entity Leningradsky_Administrative_District,_Kaliningrad","{'contains administrative territorial entity', 'Kaliningrad', 'twinned administrative body', 'Leningradsky Administrative District, Kaliningrad', 'Groningen'}",87.2702599983841,287.2227060219683,35.91364666132691
+"['<subj>Charles_Baudelaire<rel>influenced by<obj>Edgar_Allan_Poe', '<subj>Edgar_Allan_Poe<rel>place of birth<obj>Boston']","Charles Baudelaire was influenced by Edgar Allan Poe, whose place of birth was Boston.","Charles Baudelaire influenced by Edgar Allan Poe, place of birth Boston.
+Discourse markers: 
+- 'influenced by'
+- 'place of birth'
+- 'influenced'
+- 'place of birth'
+- 'influenced by'
+- 'place of birth'
+- 'influenced by'
+- 'place of birth'
+- 'influenced by'
+- 'place of birth'
+- 'influenced by'
+- 'place of birth'
+- '","Charles Baudelaire influenced by Edgar Allan Poe, place of birth Boston
+#Baudelaire #Poe #LiteraryInfluence #EdgarAllanPoe #CharlesBaudelaire #Boston #LiteraryHistory #Poetry #Influence #LiteraryFacts #EdgarPoe #CharlesBaudelaire #LiteraryInfluence #EdgarAllanPoe #CharlesBaudelaire #Boston #LiteraryHistory #Poetry #Influence","{'Charles Baudelaire', 'place of birth', 'Edgar Allan Poe', 'influenced by', 'Boston'}",0.0,50.663512385396565,317.9310885795713
+"['<subj>Solar_System<rel>parent astronomical body<obj>Sagittarius_A*', '<subj>Sagittarius_A*<rel>discoverer or inventor<obj>Robert_Hanbury_Brown', '<subj>Robert_Hanbury_Brown<rel>occupation<obj>Physicist', '<subj>Physicist<rel>instance of<obj>Profession', '<subj>Physicist<rel>field of this occupation<obj>Physics']",The Sagittarius A* object is a parent astronomical body of the Solar System. Robert Hanbury Brown discovered or invented this object. He is a Physicist who is an instance of the Profession of Physics. The Profession of Physics is a field of study that focuses on the application of physical principles to understand the behavior of celestial objects.,"Solar System parent astronomical body Sagittarius A* discoverer or inventor Robert Hanbury Brown occupation Physicist instance of Profession Physics field of this occupation Physics
+
+Discourse markers:
+- 'Solar System' (S)
+- 'parent' (P)
+- 'astronomical body' (A)
+- 'Sagittarius A*' (S*)
+- 'discoverer or inventor' (D)
+- 'Robert Hanbury Brown' (R)
+- 'occupation' (O",'The <subj>Solar_System<rel>parent astronomical body<obj>Sagittarius_A*<rel>discoverer or inventor<obj>Robert_Hanbury_Brown<rel>occupation<obj>Physicist<rel>instance of<obj>Profession<rel>field of this occupation<obj>Physics<subj>Physicist<rel>instance of<obj>Profession<rel>field of this occupation<obj>Physics<subj>Solar_System,"{'Sagittarius A*', 'Robert Hanbury Brown', 'parent astronomical body', 'Solar System', 'occupation', 'Physics', 'discoverer or inventor', 'instance of', 'field of this occupation', 'Profession', 'Physicist'}",202.86978781791703,150.183351070903,430.9718440992749
+"['<subj>Fungus<rel>Code of nomenclature<obj>International_Code_of_Nomenclature_for_algae,_fungi,_and_plants', '<subj>Fungus<rel>taxon rank<obj>Kingdom_(biology)', '<subj>Fungus<rel>parent taxon<obj>Holomycota', '<subj>Holomycota<rel>instance of<obj>Clade', '<subj>Fungus<rel>instance of<obj>Taxon']","The International Code of Nomenclature for algae, fungi, and plants is a formal system of naming organisms. It is based on the International Code of Nomenclature for algae, fungi, and plants. The International Code of Nomenclature for algae, fungi, and plants is a formal system of naming organisms. It is based on the International Code of Nomenclature for algae, fungi, and plants. The International Code of Nomenclature for algae, fungi, and plants is a formal system","Fungus <subj>Fungus<rel>Code of nomenclature<obj>International_Code_of_Nomenclature_for_algae,_fungi,_and_plants> <subj>Fungus<rel>taxon rank<obj>Kingdom_(biology)> <subj>Fungus<rel>parent taxon<obj>Holomycota> <subj>Holomycota<rel>instance of<obj>Clade> <subj>Fungus<rel","'Fungus is a Holomycota, which is a Kingdom_(biology), and is an instance of Clade and Taxon. It is an instance of Holomycota and is a parent taxon of Fungus. It is an instance of Holomycota and is a taxon rank of Fungus. It is an instance of Holomycota and is a code of nomenclature of Fungus. It is an instance of Holomycota","{'Fungus', 'parent taxon', 'International Code of Nomenclature for algae, fungi, and plants', 'Clade', 'Kingdom (biology)', 'Holomycota', 'Taxon', 'instance of', 'taxon rank', 'Code of nomenclature'}",137.08806756391687,393.439924041583,35.87845723286461
+"['<subj>George_Washington<rel>father<obj>Augustine_Washington', '<subj>Augustine_Washington<rel>child<obj>Betty_Washington_Lewis']","Augustine Washington, son of George Washington, was born in 1787. Betty Washington Lewis, daughter of Augustine Washington, was born in 1800.","George Washington, father of Augustine Washington, Betty Washington Lewis.
+Discourse markers: None
+Hesitators: None
+Disfluency markers: None
+Planners: None
+Emotions expressed: None
+Note: The generated output is a simple representation of the input triples and does not reflect the actual meaning or context of the input. The output is a direct representation of the triples without any additional interpretation or analysis.","'George Washington, father of Augustine Washington, child of Betty Washington Lewis.'
+#GeorgeWashington #AugustineWashington #BettyWashingtonLewis #father #child #WashingtonFamily #AmericanHistory #GeorgeWashington #AugustineWashington #BettyWashingtonLewis #WashingtonFamily #AmericanHistory #WashingtonFamily #GeorgeWashington #AugustineWashington #BettyWashingtonLewis #WashingtonFamily #AmericanHistory #WashingtonFamily #GeorgeWashington #AugustineWashington #BettyWashingtonLewis #WashingtonFamily #AmericanHistory #WashingtonFamily","{'George Washington', 'Betty Washington Lewis', 'Augustine Washington', 'child', 'father'}",91.82741962902338,445.82949335100284,460.0
+"['<subj>Antarctica<rel>instance of<obj>Continent', '<subj>Antarctica<rel>instance of<obj>Region', '<subj>Antarctica<rel>located in time zone<obj>UTC+07:00', '<subj>Antarctica<rel>located in time zone<obj>UTC+03:00']","The continent of Antarctica is a region located in the time zone of UTC+07:00. It is also located in the time zone of UTC+03:00. Antarctica is an instance of a continent. Antarctica is an instance of a region. Antarctica is located in the time zone of UTC+07:00. Antarctica is located in the time zone of UTC+03:00. 
+The continent of Antarctica is a region. Antarctica is an instance of a continent. Antarctica is located in","""Antarctica is a continent, located in time zone UTC+07:00, but it is also a region, instance of continent, instance of region, instance of time zone, and instance of continent. 
+Antarctica is a continent, but it is also a region, instance of continent, instance of region, and instance of time zone. 
+Antarctica is located in time zone UTC+07:00, but it is also a region, instance of continent, instance","""Antarctica is a continent, located in time zone UTC+07:00, and is also a region. #Antarctica #Continent #Region #Timezone #UTC""
+
+Here is the code snippet to generate the output:
+```python
+import random
+
+# Define the triples
+triples = [
+    ['<subj>Antarctica<rel>instance of<obj>Continent', '<subj>Antarctica<rel>instance of<obj>Region',","{'Antarctica', 'Continent', 'UTC+03:00', 'UTC+07:00', 'instance of', 'located in time zone', 'Region'}",161.64678673502266,61.089136743915844,334.38121659417743
+"['<subj>Lille<rel>country<obj>France', '<subj>Lille<rel>located in the administrative territorial entity<obj>Arrondissement_of_Lille']",Lille is a country located in the administrative territorial entity Arrondissement_of_Lille.,"Lille, the country of France, is located in the administrative territorial entity of Arrondissement_of_Lille. (hesitator) 
+Lille, the country of France, is located in the administrative territorial entity of Arrondissement_of_Lille. (disfluency marker) 
+Lille, the country of France, is located in the administrative territorial entity of Arrondissement_of_Lille. (planner) 
+Lille, the country of France, is located in the","'Lille is a country located in the administrative territorial entity Arrondissement_of_Lille.'
+Note: The <subj>, <rel>, and <obj> placeholders are replaced with the actual values from the triple. The output is a sentence that is a direct translation of the triple. The hashtags are added to the end of the output. 
+
+## Step 1: Understand the","{'country', 'France', 'Arrondissement of Lille', 'Lille', 'located in the administrative territorial entity'}",20.0,155.00540095874265,345.6470844507105
+"['<subj>George_W._Bush<rel>religion<obj>United_Methodist_Church', '<subj>United_Methodist_Church<rel>member of<obj>Churches_Uniting_in_Christ', '<subj>United_Methodist_Church<rel>replaces<obj>Evangelical_United_Brethren_Church']","The United Methodist Church, a Christian denomination, has been replaced by the Evangelical United Brethren Church in the United States. The Evangelical United Brethren Church, a denomination that was founded in the early 20th century, has been a significant part of the religious landscape in the United States. The United Methodist Church, which was founded in 1784, has a long history of promoting social justice and human rights. The Evangelical United Brethren Church, which was founded in 1946","George W. Bush, religion, United Methodist Church, member of Churches Uniting in Christ, replaces Evangelical United Brethren Church.
+Discourse markers: None
+Hesitators: None
+Disfluency markers: None
+Planners: None
+Emotions expressed: None
+Note: The output is generated based on the provided triples and does not reflect any real-life events or statements made by George W. Bush. The output is purely fictional and for demonstration purposes only.","'George_W._Bush was a member of the United_Methodist_Church. The United_Methodist_Church replaces the Evangelical_United_Brethren_Church.'
+#GeorgeBush #United MethodistChurch #EvangelicalUnitedBrethrenChurch #Churches #UnitingInChrist #Religion #Membership #Replacement #ChurchesInAmerica'","{'member of', 'George W. Bush', 'religion', 'Churches Uniting in Christ', 'United Methodist Church', 'replaces', 'Evangelical United Brethren Church'}",368.09705263532067,391.211674709406,257.6404696539403
+"['<subj>The_Intouchables<rel>production company<obj>Gaumont_Film_Company', '<subj>Gaumont_Film_Company<rel>country<obj>France', '<subj>France<rel>emergency phone number<obj>112_(emergency_telephone_number)', '<subj>112_(emergency_telephone_number)<rel>country<obj>Andorra', '<subj>Gaumont_Film_Company<rel>instance of<obj>Organization', '<subj>Gaumont_Film_Company<rel>headquarters location<obj>Neuilly-sur-Seine', '<subj>Gaumont_Film_Company<rel>headquarters location<obj>Paris', '<subj>Gaumont_Film_Company<rel>founded by<obj>Léon_Gaumont', '<subj>Gaumont_Film_Company<rel>industry<obj>Film_industry']",The Intouchables production company Gaumont Film Company is located in Neuilly-sur-Seine and Paris. The company is headquartered in Neuilly-sur-Seine and Paris. The company was founded by Léon Gaumont. The Intouchables is an organization that provides emergency phone numbers in Andorra. The company provides emergency phone numbers in Andorra. The company is an organization that provides emergency phone numbers in Andorra. The company is an organization that provides emergency phone numbers in Andorra. The,"‘The Intouchables production company Gaumont Film Company, Gaumont Film Company country France, 112_(emergency_telephone_number) country Andorra, Gaumont Film Company instance of Organization, Gaumont Film Company headquarters location Neuilly-sur-Seine, Gaumont Film Company headquarters location Paris, Gaumont Film Company founded by Léon Gaumont, Gaumont Film Company industry Film_industry’.
+Discourse markers: None
+Hesitators: None
+Disfluency markers: None",'The Intouchables production company Gaumont Film Company <subj>France <rel>emergency phone number 112_(emergency_telephone_number) <subj>112_(emergency_telephone_number) <rel>country Andorra <subj>Gaumont_Film_Company <rel>instance of Organization <subj>Gaumont_Film_Company <rel>headquarters location Neuilly-sur-Seine <subj>Gaumont_Film_Company <rel>headquarters location Paris <subj>Ga,"{'country', 'headquarters location', 'industry', 'Gaumont Film Company', 'France', 'Léon Gaumont', '112 (emergency telephone number)', 'emergency phone number', 'Organization', 'Neuilly-sur-Seine', 'Film industry', 'instance of', 'founded by', 'Paris', 'The Intouchables', 'Andorra', 'production company'}",186.29976889671738,158.29241947476623,395.90769313260114
+"['<subj>Malta<rel>named after<obj>Honey', '<subj>Malta<rel>instance of<obj>Sovereign_state']",Malta was named after honey. Malta is an instance of a sovereign state.,"Malta, a sovereign state, was named after honey. 
+Malta, a sovereign state, is an instance of sovereign states. 
+Malta, a sovereign state, was named after honey. 
+Malta, a sovereign state, is an instance of sovereign states. 
+Malta, a sovereign state, was named after honey. 
+Malta, a sovereign state, is an instance of sovereign states. 
+Malta, a sovereign state, was named after honey. 
+Malta","""The <subj>Malta<rel>is <obj>the <subj>Malta<rel>instance of <obj>Sovereign_state>""","{'Malta', 'named after', 'instance of', 'Sovereign state', 'Honey'}",0.0,31.295168046722907,147.1563454349157
+"['<subj>Penis<rel>has part<obj>Foreskin', '<subj>Foreskin<rel>part of<obj>Penis', '<subj>Foreskin<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary']",The penis has part foreskin. The foreskin is part of the penis. The foreskin is described by the source Brockhaus_and_Efron_Encyclopedic_Dictionary.,"'The penis has part foreskin, which is described by source Brockhaus_and_Efron_Encyclopedic_Dictionary.' (Discourse marker: 'The', Emotion: Neutral, Hesitator: None, Disfluency marker: None, Planner: None)
+Here is the breakdown of the generated output:
+1. The: The speaker is introducing the topic of the sentence.
+2. penis: The speaker is referring to the subject of the sentence.
+3. has:","'Penis has part foreskin, which is described by source Brockhaus_and_Efron_Encyclopedic_Dictionary.' 🤯💉
+
+Here is the code snippet to generate the output:
+```python
+import random
+
+def generate_input_triple(subj, obj, rel, objection=None, relation=None):
+    triples = [
+        ['Penis', 'part', 'has'],
+        ['Penis', 'part', 'of'],
+        ['Penis', 'part","{'has part', 'Penis', 'Foreskin', 'described by source', 'Brockhaus and Efron Encyclopedic Dictionary', 'part of'}",46.07972959647483,363.6430211891544,285.7203498254373
+"['<subj>Pioneer_plaque<rel>instance of<obj>Data_storage', '<subj>Data_storage<rel>subclass of<obj>Media_(communication)', '<subj>Media_(communication)<rel>has part<obj>Matter', '<subj>Media_(communication)<rel>used by<obj>Mass_media', '<subj>Matter<rel>has quality<obj>State_of_matter', '<subj>Matter<rel>has quality<obj>Temperature', '<subj>Matter<rel>part of<obj>Observable_universe']","The Pioneer plaque is an instance of Data_storage, a subclass of Media_(communication), which has part Matter, used by Mass_media, has quality State_of_matter, has quality Temperature, and is part of the Observable_universe.","Pioneer_plaque has part Matter has quality Temperature used by Mass_media has quality State_of_matter has part Observable_universe Data_storage instance of Data_storage subclass Media_(communication) subclass Matter subclass State_of_matter subclass Temperature subclass Matter subclass part Observable_universe
+
+Discourse markers: 
+- has: expresses the speaker's action or state
+- part: indicates the relationship between the objects
+- used: indicates the relationship between the objects
+- has: expresses the speaker's action or state","'A pioneer plaque is a data storage instance of a media (communication) subclass of a matter subclass of a state of matter of a mass media used by a mass media, and has quality of state of matter and temperature of a matter part of an observable universe.'
+
+Here is the explanation of the provided triple:
+- <subj> : Pioneer_plaque
+- <rel> : instance of
+- <obj> : Data_storage
+- <relation> : subclass of
+- <subj> :","{'has part', 'State of matter', 'Media (communication)', 'Pioneer plaque', 'Mass media', 'used by', 'instance of', 'has quality', 'subclass of', 'Temperature', 'Data storage', 'Observable universe', 'Matter', 'part of'}",114.34961481847536,578.8363644223311,186.626688500128
+"['<subj>Champs-Élysées<rel>located in the administrative territorial entity<obj>Paris', '<subj>Champs-Élysées<rel>instance of<obj>Tourist_attraction']",The Champs-Élysées is located in the administrative territorial entity Paris. It is an instance of a Tourist attraction.,"Champs-Élysées, located in the administrative territorial entity Paris, is an instance of Tourist attraction.
+The speaker is expressing a positive sentiment towards the location. The use of the discourse marker 'is' indicates a causal relationship, while the use of the discourse marker 'instance of' further emphasizes the speaker's positive evaluation of the location. The use of the discourse marker 'an' introduces a new noun, 'Tourist attraction', and the use of the discourse marker 'of'","'The <subj>Champs-Élysées<rel>instance of<obj>Tourist_attraction<rel>located in the administrative territorial entity<obj>Paris<rel>'. 
+Note: The generated output only includes the provided information from the triples. The output may not be grammatically correct or natural-sounding. The output is generated based on the specified triples. 
+
+## Step 1: Understand the","{'Champs-Élysées', 'Tourist attraction', 'instance of', 'Paris', 'located in the administrative territorial entity'}",0.0,432.9537394970053,439.90454524224884
+"['<subj>Wikidata<rel>operator<obj>Wikimedia_Foundation', '<subj>Wikimedia_Foundation<rel>country<obj>United_States', '<subj>United_States<rel>participant in<obj>Atomic_bombings_of_Hiroshima_and_Nagasaki']",The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation is a Wikimedia Foundation. The Wikimedia Foundation,The United States Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata Wikidata,"'The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki. The Atomic bombings of Hiroshima and Nagasaki were conducted by the United States. The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki. The Atomic bombings of Hiroshima and Nagasaki were conducted by the United States. #AtomicBombings #Hiroshima #Nagasaki #UnitedStates #Wikidata #WikimediaFoundation'
+
+Note: The generated output will be a single","{'country', 'Wikimedia Foundation', 'operator', 'United States', 'Wikidata', 'participant in', 'Atomic bombings of Hiroshima and Nagasaki'}",0.0,0.0,189.51851793378697
+"['<subj>Douglas_Adams<rel>instance of<obj>Human', '<subj>Douglas_Adams<rel>occupation<obj>Playwright']","'Douglas Adams was an instance of Human, an occupation of Playwright.'","Douglas Adams, a human, was a playwright. He was an instance of a human. He was a playwright. He was an instance of a human. He was a playwright. He was an instance of a human. He was a playwright. He was an instance of a human. He was a playwright. He was an instance of a human. He was a playwright. He was an instance of a human. He was a playwright. He was an instance of a human. He","'Douglas Adams, the renowned British playwright, was a human. He was a playwright. He was a human.'","{'Douglas Adams', 'Playwright', 'occupation', 'Human', 'instance of'}",0.0,0.0,29.435698574933255
+"['<subj>Prose<rel>described by source<obj>Granat_Encyclopedic_Dictionary', '<subj>Granat_Encyclopedic_Dictionary<rel>instance of<obj>Encyclopedic_dictionary']",The <subj>Prose<rel>described by source<obj>Granat_Encyclopedic_Dictionary<obj>Granat_Encyclopedic_Dictionary<rel>instance of<obj>Encyclopedic_dictionary.,"Prose described by source Granat_Encyclopedic_Dictionary, described by source Granat_Encyclopedic_Dictionary, instance of Encyclopedic_dictionary.
+Prose described by source Granat_Encyclopedic_Dictionary, described by source Granat_Encyclopedic_Dictionary, instance of Encyclopedic_dictionary.
+Prose described by source Granat_Encyclopedic_Dictionary, described by source Granat_Encyclopedic","'Prose is described by source Granat_Encyclopedic_Dictionary, and Granat_Encyclopedic_Dictionary is an instance of Encyclopedic_dictionary.'
+
+Note: The <subj>, <rel>, and <obj> placeholders are replaced with the actual values from the triple. The output is a sentence that describes Prose as being described by Granat_Encyclopedic_Dictionary, and Granat_Encyclopedic_Dictionary is an instance of Enc","{'Prose', 'Granat Encyclopedic Dictionary', 'described by source', 'instance of', 'Encyclopedic dictionary'}",183.96690098275394,160.0,339.48042788740963
+"['<subj>Portugal<rel>continent<obj>Europe', '<subj>Europe<rel>history of topic<obj>History_of_Europe', '<subj>Europe<rel>located in time zone<obj>Kaliningrad_Time', '<subj>Europe<rel>has part<obj>Eastern_Europe', '<subj>Eastern_Europe<rel>has part<obj>Poland']","The continent of Europe is located in the time zone of Kaliningrad. It has a part in Eastern Europe, and Poland is a part of it.","Portugal is located in the time zone of Kaliningrad. 
+Portugal has part of Eastern Europe. 
+Portugal has part of Poland. 
+Portugal is a continent. 
+Portugal has part of History of Europe. 
+Portugal is a history of topic. 
+Portugal is located in the time zone of Kaliningrad. 
+Portugal has part of Eastern Europe. 
+Portugal has part of Poland. 
+Portugal is a continent. 
+Portugal has part",'Portugal is located in the time zone of Kaliningrad Time. Europe has part of Poland. Portugal is a continent. Europe has part of History_of_Europe. Europe is a continent. Europe is located in the time zone of Kaliningrad Time. Europe has part of History_of_Europe. Europe is a continent. Europe is located in the time zone of Kaliningrad Time. Europe has part of History_of_Europe. Europe is a continent. Europe is located in the time,"{'Kaliningrad Time', 'has part', 'Portugal', 'continent', 'History of Europe', 'Eastern Europe', 'Poland', 'located in time zone', 'Europe', 'history of topic'}",58.933998904457276,117.86799780891457,193.67581290623627
+"['<subj>Jack_Bauer<rel>educated at<obj>University_of_California,_Berkeley', '<subj>Jack_Bauer<rel>educated at<obj>Officer_Candidate_School_(United_States_Army)', '<subj>Jack_Bauer<rel>educated at<obj>University_of_California,_Los_Angeles', '<subj>University_of_California,_Los_Angeles<rel>instance of<obj>Campus']","Jack_Bauer was educated at the University_of_California,_Berkeley. He was educated at Officer_Candidate_School_(United_States_Army). He was educated at the University_of_California,_Los_Angeles. The University_of_California,_Los_Angeles is an instance of Campus.","Jack_Bauer was educated at University_of_California,_Los_Angeles. He was educated at Officer_Candidate_School_(United_States_Army). He was educated at University_of_California,_Los_Angeles. He was educated at Officer_Candidate_School_(United_States_Army). He was educated at University_of_California,_Los_Angeles. He was educated at Officer_Candidate_School_(United_States_Army). He","'Jack Bauer educated at University of California, Los Angeles, instance of Campus'
+Note: The <subj>, <rel>, and <obj> placeholders are replaced with the actual values from the triples. The output is a sentence that includes the provided information. I will make sure to use the correct placeholders in the future. Here is the corrected output: 'Jack Bauer educated at University of California, Los Angeles, instance of Campus'","{'Jack Bauer', 'University of California, Berkeley', 'Campus', 'educated at', 'instance of', 'University of California, Los Angeles', 'Officer Candidate School (United States Army)'}",180.0,260.0,343.4153444231132
+['<subj>Hydraulic_ram<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary'],Hydraulic ram is a device that describes the source Brockhaus and Efron Encyclopedic Dictionary.,Hydraulic ram <obj>described by source <subj>Brockhaus_and_Efron_Encyclopedic_Dictionary<rel>described by<rel>by<rel>source<obj> Brockhaus_and_Efron_Encyclopedic_Dictionary<rel>described by<rel>by<rel>source<obj> Hydraulic ram <obj>described by source <subj>Brockhaus_and_Efron_Encyclopedic_Dictionary<,"""Hydraulic ram described by source Brockhaus_and_Efron_Encyclopedic_Dictionary<rel>described by<obj>Hydraulic_ram<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary""","{'Hydraulic ram', 'described by source', 'Brockhaus and Efron Encyclopedic Dictionary'}",42.45710227181428,358.89433701762505,153.4063753530001
+"['<subj>Oslo<rel>country<obj>Norway', '<subj>Norway<rel>emergency phone number<obj>112_(emergency_telephone_number)', '<subj>Norway<rel>office held by head of government<obj>Prime_Minister_of_Norway']",The Prime Minister of Norway held an office in Oslo. Norway is a country. Norway has an emergency phone number of 112_(emergency_telephone_number). The Prime Minister of Norway is responsible for the office held by the head of government in Oslo.,"'Oslo, the country of Norway, is a country that has a country emergency phone number of 112_(emergency_telephone_number), which is held by the head of government, the Prime_Minister_of_Norway.'
+Discourse markers: 'Oslo', 'the country of Norway', 'is', 'a', 'country', 'has', 'a', 'country', 'emergency phone number', 'of', '112_(emergency_telephone_number)', 'which', 'is',",'Oslo 🇳🇨 is the country 🇳🇨 of Norway 🇳🇨. Norway 🇳🇨 has an emergency phone number 📞_(emergency_telephone_number) of 112_(emergency_telephone_number). Norway 🇳🇨 has a head of government 🏛️ who holds the office of Prime_Minister_of_Norway 🏛️.' 🇳🇨 #Norway #,"{'country', 'office held by head of government', '112 (emergency telephone number)', 'Prime Minister of Norway', 'Oslo', 'Norway', 'emergency phone number'}",125.56696909114947,170.18654986749328,145.4746720450239
+"['<subj>Anatomy<rel>part of<obj>Biology', '<subj>Anatomy<rel>part of<obj>Medicine', '<subj>Anatomy<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Anatomy<rel>described by source<obj>Encyclopædia_Britannica_Eleventh_Edition', '<subj>Anatomy<rel>described by source<obj>Realencyclopädie_der_classischen_Altertumswissenschaft']","The anatomical structures of the human body are described by various sources, including the Brockhaus and Efron Encyclopedic Dictionary and the Encyclopædia Britannica Eleventh Edition. The anatomical structures of the human body are also described by the Realencyclopädie der klassischen Altertumswissenschaft. The anatomical structures of the human body are part of the anatomy of the human body, which is described by the Brockhaus and Efron Encyc","Anatomy part of Biology
+Anatomy part of Medicine
+Anatomy described by source Biology
+Anatomy described by source Medicine
+Anatomy described by source Brockhaus_and_Efron_Encyclopedic_Dictionary
+Anatomy described by source Encyclopædia_Britannica_Eleventh_Edition
+Anatomy described by source Realencyclopädie_der_classischen_Altertumswissenschaft
+Discourse markers: None
+Hesitators: None","'Anatomy part of Biology, part of Medicine, described by source Brockhaus_and_Efron_Encyclopedic_Dictionary, described by source Encyclopædia_Britannica_Eleventh_Edition, described by source Realencyclopädie_der_classischen_Altertumswissenschaft'
+Note: The generated output is a string of words separated by spaces, which is the output of the triple. The output only includes the provided information from the triples. The output","{'Anatomy', 'Biology', 'Encyclopædia Britannica Eleventh Edition', 'described by source', 'Brockhaus and Efron Encyclopedic Dictionary', 'part of', 'Medicine', 'Realencyclopädie der classischen Altertumswissenschaft'}",430.8898106785562,114.71379646936212,282.8236825786535
+"[""<subj>All_Saints'_Day<rel>described by source<obj>Catholic_Encyclopedia"", '<subj>Catholic_Encyclopedia<rel>instance of<obj>Book_series', '<subj>Catholic_Encyclopedia<rel>genre<obj>Encyclopedia']","The All Saints' Day is described by source Catholic Encyclopedia, which is an instance of Book series, and is a genre Encyclopedia.","All Saints' Day described by source Catholic Encyclopedia, Catholic Encyclopedia is instance of Book series, Catholic Encyclopedia is genre Encyclopedia. 
+All Saints' Day described by source Catholic Encyclopedia, Catholic Encyclopedia is instance of Book series, All Saints' Day is genre Encyclopedia. 
+All Saints' Day described by source Catholic Encyclopedia, Catholic Encyclopedia is instance of Book series, All Saints' Day is described by source Catholic Encyclopedia. 
+All Saints' Day described by source Catholic Encyclopedia, Catholic Encyclopedia is instance of Book series","""All Saints' Day is described by source Catholic Encyclopedia, is an instance of Book series, is a genre Encyclopedia.""
+Note: The actual output may vary based on the triples provided.
+Here's a step-by-step explanation of the process:
+
+1. Extract the subject, relation, and object from the triple.
+2. Use the extracted information to generate the output text.
+3. Use emojis and hashtags to enhance the output text.
+
+Step 1: Extract the subject, relation, and object from the","{'genre', 'Catholic Encyclopedia', 'Book series', 'described by source', 'instance of', 'Encyclopedia', ""All Saints' Day""}",0.0,0.0,535.4202989596429
+"['<subj>Bahrain<rel>instance of<obj>Sovereign_state', '<subj>Sovereign_state<rel>subclass of<obj>State_(polity)']","Bahrain is an instance of a sovereign state. Bahrain is a subclass of a state (polity). Bahrain is a sovereign state.
+Note: The '","Bahrain is a sovereign state. Bahrain is a state. Bahrain is a sovereign state.
+Discourse markers: (none)
+Hesitators: (none)
+Disfluency markers: (none)
+Planners: (none)
+Emotions expressed: Neutral
+Note: The output is a simple sentence with no variation in tone or style. The output is a direct representation of the input triples without any additional context or interpretation. The output is a straightforward representation of the information provided in the triples. The",Bahrain is a sovereign state. Bahrain is a subclass of State_(polity).,"{'Bahrain', 'instance of', 'Sovereign state', 'subclass of', 'State (polity)'}",13.150208855799514,490.53979785332245,40.329396778570796
+"['<subj>Planet<rel>subclass of<obj>Substellar_object', '<subj>Planet<rel>parent astronomical body<obj>Star_system', '<subj>Star_system<rel>subclass of<obj>Astronomical_object', '<subj>Star_system<rel>child astronomical body<obj>Planet', '<subj>Star_system<rel>different from<obj>Planetary_system']",The planet [<subj>Planet<rel>subclass of<obj>Substellar_object] is a subclass of [<subj>Star_system<rel>subclass of<obj>Astronomical_object]. The star system [<subj>Star_system<rel>subclass of<obj>Astronomical_object] is a child astronomical body of [<subj>Planet<rel>parent astronomical body<obj>Star_system]. The star system [<subj>Star_system<rel>different,"Planet Planet parent astronomical body Star_system subclass of Substellar_object
+Planet Planet parent astronomical body Star_system child astronomical body Planet
+Star_system Star_system different from Planetary_system
+Planet Planet parent astronomical body Star_system child astronomical body Planet
+Star_system Star_system different from Planetary_system
+Planet Planet parent astronomical body Star_system child astronomical body Planet
+Star_system Star_system different from Planetary_system
+Planet Planet parent astronomical body Star_system child astronomical body Planet
+Star_system Star_system different from Planetary","'Planet subclass of Substellar_object, Planet parent astronomical body Star_system subclass of Astronomical_object, Star_system child astronomical body Planet different from Planetary_system'
+Note: The output text is generated by replacing the placeholders with the actual information from the triples. The output text is a sentence that describes the relationships between the planets and their respective astronomical bodies. 
+
+Here is the breakdown of the triples:
+- <subj>Planet<rel>subclass of<obj>Substellar_object
+  - <","{'Astronomical object', 'child astronomical body', 'Star system', 'Planetary system', 'parent astronomical body', 'Substellar object', 'different from', 'Planet', 'subclass of'}",448.8894090330564,360.72993470815453,493.9565777364501
+"['<subj>Flower<rel>different from<obj>Malva', '<subj>Flower<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Malva<rel>different from<obj>Flower', '<subj>Flower<rel>described by source<obj>Encyclopædia_Britannica_Eleventh_Edition', '<subj>Flower<rel>use<obj>Plant_reproduction', '<subj>Flower<rel>part of<obj>Shoot']","The flower is different from the Malva, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower, which is different from the flower,","Flower different from Malva, described by source Brockhaus_and_Efron_Encyclopedic_Dictionary, different from Flower, described by source Encyclopædia_Britannica_Eleventh_Edition, use Malva, part of Flower, described by source Plant_reproduction, different from Flower, described by source Brockhaus_and_Efron_Encyclopedic_Dictionary, use Plant_reproduction, part of Flower, described by source Encyclopædia","'Flower different from Malva, described by source Brockhaus_and_Efron_Encyclopedic_Dictionary, different from Flower, described by source Encyclopædia_Britannica_Eleventh_Edition, use Plant_reproduction, part of Shoot'
+
+Note: The '<subj>', '<obj>', '<rel>', and '<rel>' placeholders are replaced with the actual values from the triples. The output is a string of words separated by spaces, which is the generated text.","{'Shoot', 'use', 'Flower', 'different from', 'Encyclopædia Britannica Eleventh Edition', 'described by source', 'Brockhaus and Efron Encyclopedic Dictionary', 'Plant reproduction', 'part of', 'Malva'}",0.0,123.75167539879062,345.474369106105
+"['<subj>Right_angle<rel>facet of<obj>Perpendicular', '<subj>Right_angle<rel>part of<obj>Right_triangle', '<subj>Right_angle<rel>subclass of<obj>Angle']",The right angle is a facet of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the right angle of the,"'Right angle is a facet of right angle, right angle is part of right triangle, right angle is a subclass of angle.'
+
+Discourse markers: 
+- 'Right angle' (emphasized)
+- 'a' (used to indicate a new clause)
+- 'of' (used to indicate a preposition)
+- 'part' (used to indicate a noun)
+- 'subclass' (used to indicate a relation)
+- 'of' (used to indicate a preposition)
+-","'Right angle is a part of right triangle and a subclass of angle. Right angle is perpendicular to right triangle. Right angle is a facet of perpendicular.'
+
+Here's how you can generate the text using the provided triples:
+1. Extract the subject, relation, and object from the triples.
+2. Use the extracted information to generate the output text.
+
+Here's the code snippet to generate the output text:
+```python
+import random
+
+# Define the triples
+triples = [
+    ['<subj","{'Perpendicular', 'Right angle', 'Angle', 'subclass of', 'Right triangle', 'part of', 'facet of'}",0.0,304.18028274552137,485.34561379125074
+"['<subj>November<rel>named after<obj>9', '<subj>November<rel>named after<obj>Ahmad_Sanjar', '<subj>November<rel>named after<obj>Animal_slaughter']",The month of November was named after the 9th person to be named after Ahmad Sanjar. The month of November was named after the 9th person to be named after the Animal_slaughter.,"'November, named after Ahmad_Sanjar, named after Animal_slaughter.' Discourse markers: 'November', 'named after', 'Animal_slaughter'. Emotions expressed: 'November' is a month, 'Ahmad_Sanjar' is a person, 'Animal_slaughter' is a noun.","'November is named after Ahmad_Sanjar and Animal_slaughter.' 🦊👑
+
+Here is the code to generate the output:
+```python
+import random
+
+def generate_input_triple(subj, obj, rel, objection):
+    triple = [subj, rel, obj, objection]
+    random.shuffle(triple)
+    return ' '.join(triple)
+
+triple = ['<subj>November<rel>named after<obj>9', '<subj>November<rel","{'9', 'named after', 'Ahmad Sanjar', 'Animal slaughter', 'November'}",99.73088881864868,206.80200593951713,559.2776916704822
+"['<subj>English_Wikipedia<rel>language of work or name<obj>English_language', '<subj>English_language<rel>uses capitalization for<obj>Demonym', '<subj>English_language<rel>uses capitalization for<obj>Religion', '<subj>English_language<rel>uses capitalization for<obj>Religious_denomination', '<subj>English_language<rel>linguistic typology<obj>Subject–verb–object']","The English language uses capitalization for the Demonym, the Religion, the Religious_denomination, and the Subject–verb–object. The English language is a linguistic typology of the Subject–verb–object. The English language is a language of work or name. The English language is a language of work or name. The English language is a language of work or name. The English language is a language of work or name. The English language is a language of work or name. The English","The English language uses capitalization for Demonym, English_language, Religious_denomination, and Subject–verb–object. The English language uses capitalization for Demonym, English_language, Religious_denomination, and Subject–verb–object. The English language uses capitalization for Demonym, English_language, Religious_denomination, and Subject–verb–object. The English language uses capitalization for Demonym, English_language, Religious_denomination, and Subject–verb–object. The English language","The English language uses capitalization for Demonym, Religion, Religious_denomination, and Subject–verb–object. 
+The English language uses capitalization for Demonym, Religion, Religious_denomination, and Subject–verb–object. 
+The English language uses capitalization for Demonym, Religion, Religious_denomination, and Subject–verb–object. 
+The English language uses capitalization for Demonym, Religion, Religious_denomination, and Subject–verb–object. 
+The English language","{'Subject–verb–object', 'linguistic typology', 'English language', 'Demonym', 'English Wikipedia', 'Religion', 'language of work or name', 'uses capitalization for', 'Religious denomination'}",32.65544416404994,160.0,80.0
+"[""<subj>China<rel>central bank<obj>People's_Bank_of_China"", '<subj>China<rel>diplomatic relation<obj>United_States', '<subj>United_States<rel>participant in<obj>Atomic_bombings_of_Hiroshima_and_Nagasaki']",The People's Bank of China is the central bank of China. The United States is a participant in the diplomatic relations of China. The United States is a participant in the atomic bombings of Hiroshima and Nagasaki. The People's Bank of China is the central bank of China. The United States is a participant in the diplomatic relations of China. The United States is a participant in the atomic bombings of Hiroshima and Nagasaki. The People's Bank of China is the central bank of China. The,"""The central bank of China, People's Bank of China, has a diplomatic relation with the United States, and the United States is a participant in the Atomic bombings of Hiroshima and Nagasaki. The central bank of China, People's Bank of China, is a participant in the Atomic bombings of Hiroshima and Nagasaki. The United States, People's Bank of China, is a participant in the Atomic bombings of Hiroshima and Nagasaki. The central bank of China, People's Bank of","""China central bank People's Bank of China is involved in diplomatic relations with the United States as a participant in atomic bombings of Hiroshima and Nagasaki. 🚨💥 #AtomicBombs #Hiroshima #Nagasaki #China #UnitedStates #DiplomaticRelations #CentralBank #AtomicBombs #Hiroshima #Nagasaki""
+
+Here is the code to generate the tweet:
+```python
+import random
+
+def generate_tweet(input_triple):
+    subj,","{""People's Bank of China"", 'China', 'United States', 'diplomatic relation', 'central bank', 'participant in', 'Atomic bombings of Hiroshima and Nagasaki'}",20.863445364481937,32.31728920502062,380.50821356366015
+"['<subj>Neil_Young<rel>occupation<obj>Film_director', '<subj>Film_director<rel>instance of<obj>Profession', '<subj>Profession<rel>practiced by<obj>Professional']","Neil Young was a film director. Film directors are instances of professions. Professionals are practitioners of professions.
+Note: The output is a formal, academic text based on the provided input triple. It adheres to the specified format and language, avoiding contractions and abbreviations. The text is written in a formal, objective tone, as requested.","Neil Young, the film director, is an instance of a profession, practiced by a professional. 
+Neil Young, the film director, is an instance of a profession. 
+Neil Young, the film director, is an instance of a profession. 
+Neil Young, the film director, is an instance of a profession. 
+Neil Young, the film director, is an instance of a profession. 
+Neil Young, the film director, is an instance of a profession. 
+Neil Young, the","'Neil_Young is a Film_director who practised the Profession of Professional.'
+Here is the explanation of the triples:
+- <subj>Neil_Young<rel>occupation<obj>Film_director
+  - <subj>Neil_Young<rel>occupation<obj>Film_director
+    - <subj>Film_director<rel>instance of<obj>Profession
+      - <subj>Film_director<rel>instance of<obj>Profession","{'Neil Young', 'occupation', 'practiced by', 'Film director', 'instance of', 'Professional', 'Profession'}",410.2204740219287,0.0,468.6608806200091
+"['<subj>Zoology<rel>part of<obj>Biology', '<subj>Zoology<rel>instance of<obj>Academic_discipline', '<subj>Academic_discipline<rel>said to be the same as<obj>Branches_of_science', '<subj>Zoology<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Brockhaus_and_Efron_Encyclopedic_Dictionary<rel>genre<obj>Encyclopedia']",The Zoology part of the Biology discipline is said to be the same as the Branches_of_science discipline. The Zoology described by source Brockhaus_and_Efron_Encyclopedic_Dictionary is said to be the same as the Encyclopedia genre Encyclopedia. Zoology is part of the Biology discipline. Zoology is described by source Brockhaus_and_Efron_Encyclopedic_Dictionary as the same as the Branches_of_science discipline. Zoology is part of the,"""Zoology is part of Biology, but it is said to be the same as Branches_of_science, which is described by source Brockhaus_and_Efron_Encyclopedic_Dictionary, and it is a genre of Encyclopedia. Zoology is part of Biology, but it is said to be the same as Branches_of_science, which is described by source Brockhaus_and_Efron_Encyclopedic_Dictionary, and it is a genre of Encyclopedia","""The Zoology is part of the Biology. The Zoology is an instance of the Academic discipline. The Academic discipline is said to be the same as the Branches of science. The Zoology is described by the source Brockhaus and Efron Encyclopedic Dictionary. The Brockhaus and Efron Encyclopedic Dictionary is a genre of Encyclopedia.""
+
+Here is the code snippet to generate the output:
+```python
+import json
+
+# Define the triples
+triples","{'genre', 'said to be the same as', 'Biology', 'Branches of science', 'instance of', 'described by source', 'Brockhaus and Efron Encyclopedic Dictionary', 'Encyclopedia', 'Academic discipline', 'Zoology', 'part of'}",143.37642291229534,80.0,200.38360115172708
+"['<subj>Computer<rel>has part<obj>Computer_hardware', '<subj>Computer_hardware<rel>part of<obj>Computer']",The computer has part of the computer's hardware.,"""The computer has part of the computer's hardware. The computer's hardware is part of the computer.""
+Discourse markers: None
+Hesitators: None
+Disfluency markers: None
+Planners: None
+Emotions: Neutral
+Note: The output is a simple sentence with a neutral tone. The speaker is neutral and does not express any emotions. The discourse markers, hesitators, disfluency markers, and planners are absent. The output is a straightforward statement.","""The computer has part of the computer's hardware. #Computers #Hardware #Part""","{'Computer hardware', 'part of', 'has part', 'Computer'}",26.041363156677782,536.6759236397062,52.082726313355565
+"['<subj>Pierre_Corneille<rel>occupation<obj>Poet', '<subj>Pierre_Corneille<rel>occupation<obj>Playwright', '<subj>Pierre_Corneille<rel>place of birth<obj>Rouen', '<subj>Rouen<rel>twinned administrative body<obj>Salerno', '<subj>Poet<rel>subclass of<obj>Writer', '<subj>Writer<rel>subclass of<obj>Author']",Pierre Cornille was a poet who was born in Rouen. He was a playwright. Rouen was his twinned administrative body. Rouen was twinned with Salerno. Pierre Cornille was a writer who was a subclass of a writer. Pierre Cornille was a subclass of an author.,"Pierre_Corneille was a Poet, Poet was a Playwright, Poet was born in Rouen, Rouen was twinned with Salerno, Poet was a Writer, Poet was a Writer, Poet was born in Rouen, Rouen was twinned with Salerno, Poet was a Writer, Poet was a Writer, Poet was born in Rouen, Rouen was twinned with Salerno, Poet was a Writer, Poet was",'Pierre_Corneille was a Poet who was born in Rouen and was a playwright. He was a twinned administrative body in Salerno. He was a Writer who was a subclass of Author.' 📝💫 #Poetry #Literature #Salerno #Rouen #Twinned #Author #Writer #Poet #Renaissance #French #Literary #History',"{'Author', 'Salerno', 'Poet', 'Playwright', 'place of birth', 'occupation', 'Pierre Corneille', 'subclass of', 'twinned administrative body', 'Writer', 'Rouen'}",145.24329277675136,124.74459009206126,147.10322708126142
+"['<subj>Chlorine<rel>subclass of<obj>Halogen', '<subj>Chlorine<rel>described by source<obj>The_Nuttall_Encyclopædia']","Chlorine is a halogen, a subclass of the halogen group. Chlorine is described by source The_Nuttall_Encyclopædia.","Chlorine is a halogen. Chlorine is described by source The_Nuttall_Encyclopædia. 
+
+Discourse markers: 
+- The_Nuttall_Encyclopædia: This is a source.
+- Chlorine: This is a noun.
+- The_Nuttall_Encyclopædia: This is a source.
+- Chlorine: This is a noun.
+- is: This is a verb.
+- a: This is a determiner.
+- halogen:","Chlorine is a halogen. Chlorine is described by source The_Nuttall_Encyclopædia. 💡
+#Chlorine #Halogen #NuttallEncyclopædia","{'Chlorine', 'The Nuttall Encyclopædia', 'described by source', 'subclass of', 'Halogen'}",31.392409758216143,196.43898999663168,40.0
+"['<subj>Yorkshire<rel>country<obj>United_Kingdom', '<subj>United_Kingdom<rel>participant in<obj>Battle_of_Carillon', '<subj>United_Kingdom<rel>participant in<obj>Battle_of_the_Lys_(1918)', '<subj>Battle_of_the_Lys_(1918)<rel>instance of<obj>Battle']","The United Kingdom is a country in the region of Yorkshire, which was a participant in the Battle of Carillon, and was also a participant in the Battle of the Lys (1918), an instance of the Battle. Yorkshire is a region in the United Kingdom. Yorkshire is a country in the region of Yorkshire. Yorkshire is a region in the United Kingdom. Yorkshire is a country in the region of Yorkshire. Yorkshire is a region in the United Kingdom. Yorkshire is a country in the region of","""I think Yorkshire is a great country, but I'm not sure if it's the best place for the United Kingdom to be in a battle. I mean, the United Kingdom has been a participant in the Battle of Carillon, and it's also been a participant in the Battle of the Lys in 1918. I'm not sure if it's an instance of the Battle, but it's definitely a significant event in history. I'm not sure if it's the best place for","'The Battle of the Lys (1918) was a battle fought between the United Kingdom and the Netherlands during World War I. The United Kingdom was a participant in the Battle of Carillon, and the Netherlands was a participant in the Battle of the Lys (1918).'
+Note: The output text is generated based on the provided triples and does not include any additional information or context. The output is a direct representation of the triples specified in the prompt.","{'country', 'United Kingdom', 'Yorkshire', 'Battle of the Lys (1918)', 'instance of', 'Battle', 'Battle of Carillon', 'participant in'}",93.01398665684614,285.43305340409137,331.9150166482369
+"['<subj>Mount_Vesuvius<rel>instance of<obj>Stratovolcano', '<subj>Stratovolcano<rel>subclass of<obj>Volcano']","Mount Vesuvius is an instance of Stratovolcano. Stratovolcano is a subclass of Volcano. Mount Vesuvius is a stratovolcano.
+Note: The output is a formal, academic text based on the provided input triple. The text adheres to the specified format and language, avoiding contractions and abbreviations. The output only includes the provided information from the triples.","Mount Vesuvius is a stratovolcano. Stratovolcanoes are subclasses of volcanoes. Vesuvius is a stratovolcano. Vesuvius is a volcano.
+Discourse markers: (none)
+Hesitators: (none)
+Disfluency markers: (none)
+Planners: (none)
+Emotions expressed: (none)","Mount Vesuvius is a stratovolcano. Stratovolcano is a subclass of volcano.
+#Volcanoes #MountVesuvius #Geology #Italy #NaturalWonders #EarthScience","{'Volcano', 'instance of', 'subclass of', 'Mount Vesuvius', 'Stratovolcano'}",334.84438588135924,243.72840261079244,108.66786235983356

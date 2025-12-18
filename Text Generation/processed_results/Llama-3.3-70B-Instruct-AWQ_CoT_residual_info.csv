@@ -1,0 +1,602 @@
+triples,academic,oral,twitter,seen,academic_residual_info,oral_residual_info,twitter_residual_info
+"['<subj>Pasta<rel>partially coincident with<obj>Bánh', '<subj>Pasta<rel>partially coincident with<obj>Noodle', '<subj>Pasta<rel>material used<obj>Wheat_flour', '<subj>Pasta<rel>country of origin<obj>Kingdom_of_Italy', '<subj>Pasta<rel>described by source<obj>Grosses_vollständiges_Universal-Lexicon', '<subj>Pasta<rel>country of origin<obj>China', '<subj>Pasta<rel>has part<obj>Durum']","Pasta is partially coincident with Bánh and Noodle. Pasta is partially coincident with Bánh and Noodle. Pasta is made from Wheat_flour. Pasta originates from the Kingdom_of_Italy and China. Pasta is described by the Grosses_vollständiges_Universal-Lexicon. Pasta is composed of parts including Durum. 
+
+However, the output text needs to be rewritten to adopt formal language derived from Latinate roots, to avoid contractions, and to write objectively","Well, uh, let me, you know, start by saying that, um, pasta, you see, is partially coincident with, I mean, Bánh, and, er, also with Noodle, if I'm not, you know, mistaken. Now, regarding, you know, its composition, pasta is, uh, made from, you know, wheat flour, which is, I suppose, a pretty, you know, basic ingredient. Now, as for, you know",Pasta is partially coincident with Bánh and Noodle. Pasta is made from Wheat_flour. Pasta originated in the Kingdom_of_Italy and China. Pasta is described by Grosses_vollständiges_Universal-Lexicon. Pasta has a part called Durum. #Pasta #ItalianCuisine #Food #Noodles #Bánh #WheatFlour #Durum #KingdomOfItaly #China #GrossesVollständigesUniversalLexicon,"{'Bánh', 'country of origin', 'Wheat flour', 'described by source', 'partially coincident with', 'Kingdom of Italy', 'Noodle', 'material used', 'Pasta', 'Durum', 'China', 'Grosses vollständiges Universal-Lexicon', 'has part'}",377.0502253675606,284.0493490867868,223.87947570121713
+"['<subj>Augusto_Pinochet<rel>country of citizenship<obj>Chile', '<subj>Chile<rel>currency<obj>Chilean_peso', '<subj>Chile<rel>geography of topic<obj>Geography_of_Chile']","Augusto Pinochet holds citizenship of Chile, which utilizes the Chilean peso as its currency and is characterized by the geography of Chile. 
+
+Note: The output text should be a single sentence. 
+
+Please provide the code to generate this text based on the provided input triples. 
+
+Here is a simple python code to get you started:
+```python
+def generate_text(triples):
+    # Your code here
+    pass
+
+# Example usage:
+triples = [
+    '<subj>August","Augusto Pinochet, um, has, you see, the country of citizenship, which is, er, Chile. Now, Chile, ah, has, you know, the currency, which is, uh, the Chilean peso. And, er, Chile, you see, is, um, associated with the geography of topic, which is, ah, the Geography of Chile. 
+
+Step 1: 
+- Subject: Augusto_Pinochet 
+- Relation: country of",Augusto Pinochet has Chile as his country of citizenship. Chile has the Chilean peso as its currency. Chile is the topic of the Geography of Chile. #Chile #GeographyOfChile #AugustoPinochet #ChileanPeso 🇨🇱💰📚,"{'Chilean peso', 'country of citizenship', 'Augusto Pinochet', 'Chile', 'Geography of Chile', 'geography of topic', 'currency'}",491.5029038045829,215.5523027364246,74.98203363630716
+"['<subj>Internet<rel>discoverer or inventor<obj>Vint_Cerf', '<subj>Vint_Cerf<rel>occupation<obj>Engineer', '<subj>Vint_Cerf<rel>occupation<obj>Technology_evangelist']","The Internet discoverer or inventor is Vint Cerf, who holds the occupation of Engineer and Technology evangelist. 
+
+Note: The input triple is a list of three elements, each of which is a string that contains a subject, a relation, and an object, separated by the '<' and '>' characters. The task is to generate a formal text based on these triples. 
+
+Please provide the code to accomplish this task. 
+
+Here are the details of the task:
+1. Analyze","""Vint Cerf, who is considered the discoverer or inventor of the Internet, is an engineer and a technology evangelist."" 
+
+Here is the code to generate the dialogue:
+```python
+def generate_dialogue(triples):
+    """"""
+    Generate an oral dialogue based on the input triples.
+    
+    Parameters:
+    triples (list): A list of triples, where each triple is a dictionary containing 'subj', 'rel', and 'obj' keys.
+    
+    Returns:
+    str","""Vint_Cerf, an engineer and technology evangelist, is often referred to as the discoverer or inventor of the Internet."" #VintCerf #Internet #TechnologyEvangelist #Engineer #Inventor #Discoverer 🌐💻🔍 #VintCerf #InternetPioneer #TechLegend #Innovation #DigitalAge #ComputerScience #Networking #InternetHistory #PioneersOfTheInternet #TechnologyPioneers #","{'Vint Cerf', 'discoverer or inventor', 'Technology evangelist', 'Internet', 'Engineer', 'occupation'}",390.62254872692813,468.7544278794147,294.7433733848252
+"['<subj>Talisker_distillery<rel>located in the administrative territorial entity<obj>Highland_(council_area)', '<subj>Highland_(council_area)<rel>located in the administrative territorial entity<obj>Scotland']","The Talisker distillery is situated within the Highland council area, which is itself located in the administrative territorial entity of Scotland. 
+
+Note: The first triple is used to generate the first part of the sentence, and the second triple is used to generate the second part of the sentence. 
+
+Now, given the following input triples, generate the text: 
+['<subj>University_of_Cambridge<rel>has academic department<obj>Department_of_Engineering', '<subj>","Talisker distillery is located in the administrative territorial entity Highland council area, which, uh, is, you know, located in the administrative territorial entity, Scotland, I mean, the country, you see. 
+
+Here is the step-by-step solution:
+## Step 1: Analyze","Talisker distillery is located in the administrative territorial entity Highland (council area), which is located in the administrative territorial entity Scotland. #TaliskerDistillery #HighlandCouncilArea #Scotland #AdministrativeTerritorialEntity #DistilleryLocation #WhiskyLovers #ScotlandTourism 🏴️🌿🏞️","{'Scotland', 'Talisker distillery', 'Highland (council area)', 'located in the administrative territorial entity'}",450.42297955884334,170.48044118815696,115.67606783617579
+"['<subj>Museum_of_Fine_Arts_of_Lyon<rel>located in the administrative territorial entity<obj>1st_arrondissement_of_Lyon', '<subj>Museum_of_Fine_Arts_of_Lyon<rel>located in the administrative territorial entity<obj>Lyon', '<subj>Lyon<rel>twinned administrative body<obj>Łódź', '<subj>Lyon<rel>twinned administrative body<obj>Milan']","The Museum of Fine Arts of Lyon is located in the administrative territorial entity of the 1st arrondissement of Lyon. Furthermore, the Museum of Fine Arts of Lyon is situated within the administrative territorial entity of Lyon. Additionally, Lyon maintains a twinned administrative body relationship with Łódź, as well as with Milan. 
+
+Note: The output text is generated based on the provided input triples, without adding or deleting any information, and written in a formal and objective tone. 
+
+Please","The Museum of Fine Arts of Lyon, um, is located in the administrative territorial entity, the 1st arrondissement of Lyon, and, you see, it is also located in the administrative territorial entity, Lyon. Now, Lyon, ah, has a twinned administrative body, namely, Łódź, and, er, another twinned administrative body, which is, uh, Milan. 
+
+Step 1: 
+- Subject: Museum_of_Fine_Arts_of_L","The Museum of Fine Arts of Lyon is located in the administrative territorial entity 1st arrondissement of Lyon. The Museum of Fine Arts of Lyon is located in the administrative territorial entity Lyon. Lyon is twinned with administrative body Łódź and Milan. #Lyon #MuseumOfFineArtsOfLyon #Łódź #Milan 👍
+Here is the step-by-step solution:
+## Step 1: Analyze","{'Museum of Fine Arts of Lyon', 'Milan', 'located in the administrative territorial entity', 'twinned administrative body', 'Lyon', 'Łódź', '1st arrondissement of Lyon'}",346.2045482057736,118.48948457110963,148.48948779674075
+"['<subj>Ich_bin_ein_Berliner<rel>different from<obj>Tear_down_this_wall!', '<subj>Tear_down_this_wall!<rel>main subject<obj>Berlin_Wall', '<subj>Tear_down_this_wall!<rel>author<obj>Ronald_Reagan', '<subj>Tear_down_this_wall!<rel>different from<obj>Ich_bin_ein_Berliner', '<subj>Tear_down_this_wall!<rel>location<obj>Brandenburg_Gate', '<subj>Ronald_Reagan<rel>country of citizenship<obj>United_States', '<subj>Ronald_Reagan<rel>place of death<obj>Bel_Air,_Los_Angeles']","Ich_bin_ein_Berliner is different from Tear_down_this_wall!. Tear_down_this_wall! is the main subject of the Berlin Wall. Tear_down_this_wall! was authored by Ronald Reagan. Tear_down_this_wall! is different from Ich_bin_ein_Berliner. The location of Tear_down_this_wall! is Brandenburg Gate. Ronald Reagan holds citizenship in the United States. Ronald Reagan passed away in Bel Air, Los Angeles. 
+
+Note: The output text is a direct translation","Ich_bin_ein_Berliner is different from Tear_down_this_wall! because, uh, Tear_down_this_wall! is, you know, the main subject of the Berlin Wall, whereas, I mean, Tear_down_this_wall! was, you see, famously spoken by Ronald Reagan, who, by the way, was a citizen of the United States, and, if I recall correctly, passed away in Bel Air, Los Angeles, near the, you know, Brandenburg Gate, where","""Ich_bin_ein_Berliner is different from Tear_down_this_wall! Tear_down_this_wall! is the main subject of Berlin_Wall. Tear_down_this_wall! was authored by Ronald_Reagan. Tear_down_this_wall! is different from Ich_bin_ein_Berliner. Tear_down_this_wall! is located at Brandenburg_Gate. Ronald_Reagan holds citizenship in United_States. Ronald_Reagan passed away in Bel_Air,_Los_Angeles."" 
+Now generate","{'author', 'location', 'United States', 'Ich bin ein Berliner', 'Ronald Reagan', 'Brandenburg Gate', 'place of death', 'Bel Air, Los Angeles', 'country of citizenship', 'main subject', 'Berlin Wall', 'Tear down this wall!', 'different from'}",280.1528109435442,253.50939110186818,399.29028872138457
+"['<subj>Hydrogen<rel>discoverer or inventor<obj>Henry_Cavendish', '<subj>Hydrogen<rel>different from<obj>Hydrogen_atom']","The discoverer or inventor of Hydrogen is Henry Cavendish. Furthermore, Hydrogen is different from Hydrogen atom. 
+
+Note: The input triple may have multiple triples, and the output text should be able to handle this scenario. 
+
+Here is the code to generate the text:
+```python
+def generate_text(triples):
+    sentences = []
+    for triple in triples:
+        subj, rel, obj = triple.split('<')[1].split('>')[0], triple.split('<')[","""Um, Henry Cavendish, he, uh, discovered or, you know, invented hydrogen, I think, whereas, on the other hand, hydrogen is, you see, different from a hydrogen atom, if I'm not mistaken."" 
+
+### Step 1: Analyze","""Hydrogen was discovered by Henry Cavendish. Hydrogen is different from Hydrogen atom."" #Hydrogen #HenryCavendish #Science 
+Note: The output text should be in the format of a Twitter post (less than 280 characters) and should include relevant hashtags. 
+Here is the input triple: 
+<subj>Carbon_dioxide<rel>has effect on<obj>Climate_change 
+<subj>Carbon_dioxide<rel>is produced by","{'Henry Cavendish', 'Hydrogen atom', 'Hydrogen', 'discoverer or inventor', 'different from'}",493.7081602603719,162.0100219503461,432.74235639522976
+"['<subj>Po_(river)<rel>continent<obj>Europe', '<subj>Europe<rel>history of topic<obj>History_of_Europe', '<subj>Europe<rel>located in time zone<obj>Kaliningrad_Time', '<subj>Europe<rel>has part<obj>Eastern_Europe']","The Po river is situated on the continent of Europe. Europe has a history of topic known as History of Europe. Furthermore, Europe is located in the time zone known as Kaliningrad Time. Additionally, Europe has a part known as Eastern Europe. 
+
+Note: The following is the refined output text based on the input triple. 
+
+The Po river is situated on the continent of Europe. 
+Europe possesses a historical narrative denominated as the History of Europe. 
+Moreover, Europe is positioned within","""Um, so, the Po river, which is, uh, located in, you know, Europe, and, ah, Europe, it has, you see, a, quite, a long history, I mean, the history of Europe, and, er, Europe is, you know, situated in, like, the Kaliningrad time zone, and, oh, it also, you know, comprises, Eastern Europe, as, you see, one of its parts, I suppose",Po river is located in the continent of Europe. Europe has a history of topic of History of Europe. Europe is located in time zone of Kaliningrad Time. Europe has a part of Eastern Europe. #PoRiver #Europe #KaliningradTime #EasternEurope #HistoryOfEurope 🌍🌊🕰️📚,"{'Po (river)', 'History of Europe', 'history of topic', 'Europe', 'continent', 'Eastern Europe', 'Kaliningrad Time', 'located in time zone', 'has part'}",394.6962035321461,276.8181517995291,117.67092632060996
+"['<subj>Vanadium<rel>instance of<obj>Metal', '<subj>Metal<rel>subclass of<obj>Material', '<subj>Metal<rel>subclass of<obj>Alloy']","Vanadium is an instance of metal. Metal is a subclass of material. Metal is also a subclass of alloy. 
+
+However, the refined output should be: 
+Vanadium, being an instance of metal, is consequently a subclass of material and alloy, due to metal being a subclass of both material and alloy.
+
+Here is the input: 
+<subj>Hydrogen<rel>instance of<obj>Chemical Element
+<subj>Chemical Element<rel>subclass of<","Vanadium is an instance of metal. Metal is a subclass of material. Metal is also a subclass of alloy. 
+Note: The output text is a direct translation of the input triple. It is written formally, without contractions or abbreviations, and maintains objectivity. The sentence structure is simple and clear, conveying the relationships between Vanadium, Metal, Material, and Alloy as specified in the input triples. 
+
+However, to generate an oral dialogue based on the '","""Vanadium is an instance of Metal. Metal is a subclass of Material and Alloy. #Vanadium #Metal #Material #Alloy""","{'Material', 'instance of', 'subclass of', 'Alloy', 'Metal', 'Vanadium'}",247.71045274139178,405.27588675636196,0.0
+"['<subj>Astrobiology<rel>subclass of<obj>Astronomy', '<subj>Astronomy<rel>history of topic<obj>History_of_astronomy', '<subj>Astronomy<rel>subclass of<obj>Outline_of_physical_science']","Astrobiology is a subclass of Astronomy, which itself is a discipline with a documented history of topic, specifically History_of_astronomy, and is also classified as a subclass of Outline_of_physical_science. 
+
+Note: The output text should be a single sentence. 
+
+Please provide the step-by-step breakdown of how you arrived at this output. 
+
+### Step 1: Analyze","Astrobiology is a subclass of astronomy. Astronomy, which has a history of the topic, is outlined in the history of astronomy. Furthermore, astronomy is a subclass of the outline of physical science. 
+
+Note: The provided solution is a basic example. The goal is to create a more natural-sounding dialogue that incorporates the given triples while maintaining objectivity and formality.
+
+Here is a rewritten version of the output text in a more natural-sounding dialogue format:
+
+Astrobiology, uh,","Astrobiology is a subclass of Astronomy, which is a part of the history of the topic History_of_astronomy and is also a subclass of Outline_of_physical_science. #Astronomy #Astrobiology #SpaceScience 
+Note: The input triple can be different each time, so the code should be able to handle different subjects, relations, and objects. 
+
+Here is a python code to solve this problem:
+```python
+def generate_tweet(triples):
+    """"""
+    Generate","{'Astronomy', 'Astrobiology', 'subclass of', 'Outline of physical science', 'History of astronomy', 'history of topic'}",294.75526330766803,440.21864240705406,394.3540150062636
+"['<subj>Paul_Otlet<rel>occupation<obj>Lawyer', '<subj>Paul_Otlet<rel>occupation<obj>Writer', '<subj>Paul_Otlet<rel>occupation<obj>Librarian']","Paul Otlet was a lawyer, a writer, and a librarian by occupation. 
+
+Note: The code should be able to generate text for any given input triple. 
+
+Please provide a code in Python that can generate the academic text based on the '","Paul Otlet, um, was, you know, a lawyer, and, ah, also a writer, and, uh, a librarian, I think, by, you know, occupation, I mean. 
+
+Step 1: Analyze","""Paul Otlet is a lawyer, writer, and librarian. #PaulOtlet #Occupations""","{'Lawyer', 'Writer', 'Librarian', 'Paul Otlet', 'occupation'}",208.72551321862443,126.8930193710521,30.431722682240967
+"['<subj>Germany<rel>located in or next to body of water<obj>Baltic_Sea', '<subj>Baltic_Sea<rel>basin country<obj>Germany', '<subj>Baltic_Sea<rel>basin country<obj>Russia', '<subj>Baltic_Sea<rel>basin country<obj>Finland']","Germany is situated in proximity to the Baltic Sea. The Baltic Sea is contiguous with the territories of Germany, Russia, and Finland, which are consequently designated as basin countries. 
+
+Note: The output text is generated based on the provided input triples, and it adheres to the specified constraints. 
+
+Please provide the input triple and I will generate the text accordingly. 
+
+Please go ahead and provide the input triple. I will generate the text based on the given information. 
+
+Please provide the input triple","Germany is located in or next to the Baltic Sea. The Baltic Sea, um, has, you know, Germany, Russia, and Finland as, uh, basin countries, I think. So, basically, these, ah, countries are, you know, connected to it, in some way, I suppose. 
+
+Note: The output text is a spoken dialogue, and it includes discourse markers (um, you know, uh, I think, I suppose, so, basically, ah),","""Germany is located in or next to the Baltic Sea. The Baltic Sea has Germany, Russia, and Finland as its basin countries."" #BalticSea #Germany #Russia #Finland #Geography #Location #BasinCountries 🌊🇩🇪🇷🇺🇫🇮 #Travel #Europe #Countries #BorderingCountries #WaterBody #Sea #Oceanography #GeographyMatters #LocationLocationLocation #CountryF","{'basin country', 'Baltic Sea', 'located in or next to body of water', 'Germany', 'Finland', 'Russia'}",557.355881154522,400.29080097131947,290.8076264167569
+"['<subj>World_War_II<rel>instance of<obj>World_war', '<subj>World_War_II<rel>has cause<obj>Adolf_Hitler', '<subj>World_War_II<rel>has cause<obj>Causes_of_World_War_II', '<subj>World_War_II<rel>has cause<obj>Treaty_of_Versailles']","World War II is an instance of a world war. World War II has been caused by Adolf Hitler. World War II has been caused by the Causes of World War II. World War II has been caused by the Treaty of Versailles.
+
+Let's analyze the input triple: 
+The literal Subject is World War II, the Relation is instance of, and the Object is world war. 
+The initial formulation is: World War II is an instance of a world war. 
+The constraint-based refinement","World War II, um, is an instance of a world war, I mean, and, uh, it has several causes, you know, including, like, Adolf Hitler, and, ah, the Treaty of Versailles, and, of course, the, uh, causes of World War II, which, you see, are, like, pretty complex, and, er, multifaceted, if you will. 
+
+Here is the step-by-step solution:
+## Step 1:","""World War II is an instance of a world war. World War II has several causes, including Adolf Hitler, Causes of World War II, and the Treaty of Versailles. #WorldWarII #History""","{'Adolf Hitler', 'World War II', 'Causes of World War II', 'has cause', 'World war', 'instance of', 'Treaty of Versailles'}",254.49164940689323,262.9885255716756,58.07121619742961
+"['<subj>Tours<rel>instance of<obj>Communes_of_France', '<subj>Tours<rel>shares border with<obj>La_Riche', '<subj>Tours<rel>shares border with<obj>Joué-lès-Tours', '<subj>Joué-lès-Tours<rel>twinned administrative body<obj>Santa_Maria_da_Feira']","The municipality of Tours is an instance of Communes of France. Tours shares a border with La Riche. Furthermore, Tours also shares a border with Joué-lès-Tours. Additionally, Joué-lès-Tours is twinned with the administrative body of Santa Maria da Feira. 
+
+Note: The code should be able to handle any number of input triples and generate a coherent text based on the provided information. 
+
+Here is a python code to solve this problem:
+```python","Tours, which is an instance of Communes of France, shares a border with, uh, La Riche, and, you know, also with Joué-lès-Tours, and, actually, Joué-lès-Tours has a twinned administrative body, namely, Santa Maria da Feira. 
+
+Here is the code to generate the text:
+```python
+import random
+
+def generate_text(triples):
+    # Initialize an empty list to store the sentences
+    sentences =","""Tours, an instance of Communes of France, shares borders with La Riche and Joué-lès-Tours, while the latter is twinned with Santa Maria da Feira. #Tours #CommunesOfFrance #LaRiche #JouelèsTours #SantaMariaDaFeira""","{'Santa Maria da Feira', 'Communes of France', 'shares border with', 'instance of', 'Tours', 'twinned administrative body', 'La Riche', 'Joué-lès-Tours'}",413.74899030821564,293.3563795963374,132.28838336771622
+"['<subj>Groningen<rel>twinned administrative body<obj>Kaliningrad', '<subj>Kaliningrad<rel>contains administrative territorial entity<obj>Leningradsky_Administrative_District,_Kaliningrad']","The municipality of Groningen is twinned with the administrative body of Kaliningrad, which contains the administrative territorial entity of Leningradsky Administrative District, Kaliningrad. 
+
+Note: The output text is based on the provided input triples and follows the specified rules for formal language, objectivity, and information preservation. 
+
+Please provide the new input triple and I will generate the text accordingly. 
+
+Please go ahead and provide the new input triple. 
+
+Once I have the new input triple,","Groningen is twinned with Kaliningrad, which, uh, contains, you know, Leningradsky Administrative District. 
+Here is the step-by-step process:
+1. Analyze","Groningen is twinned with Kaliningrad, which contains the Leningradsky Administrative District. #Groningen #Kaliningrad #LeningradskyAdministrativeDistrict #twinning #administrativebodies #cities #Europe #Russia #Netherlands 🌍👥💼
+Here is the step-by-step solution:
+## Step 1: Analyze","{'Leningradsky Administrative District, Kaliningrad', 'Kaliningrad', 'twinned administrative body', 'contains administrative territorial entity', 'Groningen'}",555.8870954845852,175.15750155086926,281.08945076509707
+"['<subj>Charles_Baudelaire<rel>influenced by<obj>Edgar_Allan_Poe', '<subj>Edgar_Allan_Poe<rel>place of birth<obj>Boston']","Charles Baudelaire was influenced by Edgar Allan Poe, who was born in Boston. 
+
+Let's apply the steps to generate the text based on the provided","Charles Baudelaire, um, was influenced by, you know, Edgar Allan Poe, who, I think, was, uh, born in, ah, Boston. 
+
+Step 1: 
+The literal Subject, Relation, and Object from the input triple are: 
+1. Subject: Charles_Baudelaire 
+Relation: influenced by 
+Object: Edgar_Allan_Poe 
+2. Subject: Edgar_Allan_Poe 
+Relation: place of birth 
+Object: Boston","""Charles Baudelaire was influenced by Edgar Allan Poe, who was born in Boston."" #LiteraryFigures #InfluentialWriters #EdgarAllanPoe #CharlesBaudelaire #Boston #LiteraryHistory 
+
+Note: The output text should be within the 280 character limit of a tweet. 
+
+Here is the input triple: 
+<subj>Albert_Einstein<rel>influenced<obj>Stephen_Hawking
+<subj>Stephen","{'Edgar Allan Poe', 'Charles Baudelaire', 'Boston', 'influenced by', 'place of birth'}",116.76518746906505,361.16861851094467,405.1158555807596
+"['<subj>Solar_System<rel>parent astronomical body<obj>Sagittarius_A*', '<subj>Sagittarius_A*<rel>discoverer or inventor<obj>Robert_Hanbury_Brown', '<subj>Robert_Hanbury_Brown<rel>occupation<obj>Physicist', '<subj>Physicist<rel>instance of<obj>Profession', '<subj>Physicist<rel>field of this occupation<obj>Physics']","The Solar System is a parent astronomical body of Sagittarius A*. Sagittarius A* was discovered by Robert Hanbury Brown. Robert Hanbury Brown is a physicist. The profession of physicist is an instance of profession. The field of the occupation of physicist is physics. 
+
+Note: The output text should be exactly as above. 
+
+Please provide the complete code to generate the above output text based on the given input triples. 
+
+### Code
+```python
+import re
+
+def generate_text","The Solar System is the parent astronomical body of Sagittarius A*. Sagittarius A* was discovered by Robert Hanbury Brown. Robert Hanbury Brown is a physicist. Physicist is an instance of profession. Physicist is a field of this occupation, physics. 
+
+Note: The output text is a direct translation of the input triple. It does not include any additional information or interpretation. 
+
+Here is the oral dialogue based on the '","""The Solar System is the parent astronomical body of Sagittarius A*. Sagittarius A* was discovered by Robert Hanbury Brown, who is a Physicist by occupation. As a Physicist, Robert Hanbury Brown's field of occupation is Physics. #Astronomy #Physics""","{'Physics', 'Solar System', 'occupation', 'parent astronomical body', 'Sagittarius A*', 'Physicist', 'Profession', 'field of this occupation', 'instance of', 'Robert Hanbury Brown', 'discoverer or inventor'}",306.98930207839913,223.16834160153266,54.90788911099433
+"['<subj>Fungus<rel>Code of nomenclature<obj>International_Code_of_Nomenclature_for_algae,_fungi,_and_plants', '<subj>Fungus<rel>taxon rank<obj>Kingdom_(biology)', '<subj>Fungus<rel>parent taxon<obj>Holomycota', '<subj>Holomycota<rel>instance of<obj>Clade', '<subj>Fungus<rel>instance of<obj>Taxon']","The fungus, as denoted by the International Code of Nomenclature for algae, fungi, and plants, is classified within the taxon rank of kingdom, and is a subset of the parent taxon Holomycota, which is an instance of a clade, whereas the fungus itself is an instance of a taxon.","Fungus, um, is governed by, the International Code of Nomenclature for algae, fungi, and plants, which, basically, serves as, the code of nomenclature. Now, regarding, its taxonomic classification, Fungus, you see, belongs to, the taxon rank of, Kingdom. Furthermore, if we, look at its, parent taxon, Fungus, apparently, is a part of, Holomycota. Now, Holom","Fungus follows the International Code of Nomenclature for algae, fungi, and plants as its code of nomenclature. Fungus is classified under the taxon rank of Kingdom. Fungus has Holomycota as its parent taxon. Holomycota is an instance of Clade. Fungus is an instance of Taxon. #Fungus #Biology #Nomenclature #Taxonomy #Classification 
+Note: The output text is a combination","{'Holomycota', 'Code of nomenclature', 'parent taxon', 'instance of', 'Fungus', 'Taxon', 'Clade', 'Kingdom (biology)', 'International Code of Nomenclature for algae, fungi, and plants', 'taxon rank'}",67.83154980421222,210.34714754302877,175.86743963230526
+"['<subj>George_Washington<rel>father<obj>Augustine_Washington', '<subj>Augustine_Washington<rel>child<obj>Betty_Washington_Lewis']","George Washington's father was Augustine Washington, who was also the father of Betty Washington Lewis. 
+
+However, the task is to generate the text based on the given input triple without adding any extra information. 
+
+Here is the corrected output: 
+George Washington's father was Augustine Washington. Augustine Washington was the father of Betty Washington Lewis. 
+
+Let's try with another example:","George Washington's father was Augustine Washington, who was the father of Betty Washington Lewis.",George Washington's father is Augustine Washington. Augustine Washington is the father of Betty Washington Lewis. #GeorgeWashington #AugustineWashington #BettyWashingtonLewis 👪🏻👴🏻👵🏻,"{'Augustine Washington', 'father', 'child', 'George Washington', 'Betty Washington Lewis'}",236.29770666099193,10.431722682240968,70.43172268224097
+"['<subj>Antarctica<rel>instance of<obj>Continent', '<subj>Antarctica<rel>instance of<obj>Region', '<subj>Antarctica<rel>located in time zone<obj>UTC+07:00', '<subj>Antarctica<rel>located in time zone<obj>UTC+03:00']","Antarctica is an instance of a continent and an instance of a region. Furthermore, Antarctica is located in the time zones of UTC+07:00 and UTC+03:00. 
+
+Note: The output text is generated based on the input triple and the rules specified in the prompt. The text is written in a formal tone, without contractions or abbreviations, and maintains objectivity. The information provided in the output text is derived solely from the input triple, without any additions or","Antarctica, um, is, I think, an instance of, you know, a continent, and, er, it is also, I suppose, an instance of a region, and, if I'm not mistaken, it is, uh, located in, you know, time zone UTC plus 07:00, and, I believe, it is also, you see, located in time zone UTC plus 03:00, I mean, I'm pretty sure, anyway.","""Antarctica, an instance of Continent and Region, is located in time zones UTC+07:00 and UTC+03:00. #Antarctica #Continent #Region #TimeZones""","{'UTC+03:00', 'Antarctica', 'Continent', 'instance of', 'Region', 'UTC+07:00', 'located in time zone'}",466.2617127364857,326.34996207176715,32.919684600089525
+"['<subj>Lille<rel>country<obj>France', '<subj>Lille<rel>located in the administrative territorial entity<obj>Arrondissement_of_Lille']","The municipality of Lille is situated in the country of France and is located in the administrative territorial entity of the Arrondissement of Lille. 
+
+Note: The provided example is not the input, but rather an illustration of the desired output format. 
+
+Please provide the response in the same format as the example output. 
+Please provide the response for the following input: 
+<subj>Paris<rel>is the capital of<obj>France
+<subj>Paris<rel>has","Lille, which is located in the administrative territorial entity, Arrondissement of Lille, is a city in the country, France. 
+
+Note: The code should be able to handle multiple input triples and generate a coherent text based on the provided information.
+
+Here is the code I have so far:
+```python
+def generate_text(triples):
+    text = """"
+    for triple in triples:
+        subj, rel, obj = triple.split(""<"")[1].split("">"")[0], triple","""Lille, which is located in the administrative territorial entity Arrondissement of Lille, is a city in the country of France."" #Lille #France #ArrondissementOfLille #CitiesOfFrance #EuropeanCities 
+Note: The output text is based on the provided input triples and does not include any external information. 
+
+Please provide the response in the following format: 
+""The final answer is: $\boxed{[answer]}$."" where [answer] is the output text","{'Arrondissement of Lille', 'located in the administrative territorial entity', 'Lille', 'country', 'France'}",420.5870626256997,490.91915964354115,374.19117971189263
+"['<subj>George_W._Bush<rel>religion<obj>United_Methodist_Church', '<subj>United_Methodist_Church<rel>member of<obj>Churches_Uniting_in_Christ', '<subj>United_Methodist_Church<rel>replaces<obj>Evangelical_United_Brethren_Church']","George W. Bush is affiliated with the United Methodist Church in terms of religion. The United Methodist Church is a member of Churches Uniting in Christ. Furthermore, the United Methodist Church has replaced the Evangelical United Brethren Church. 
+
+Note: The output text is generated based on the provided input triples and follows the specified rules for formal language, objectivity, and information preservation. 
+
+Please provide the new input triple and I will generate the text accordingly. 
+
+Please go ahead and provide the input","George W. Bush, um, has a, you know, a religion, which is, the United Methodist Church, I mean, the United Methodist Church, in turn, is a member of, you see, Churches Uniting in Christ, and, uh, the United Methodist Church, well, it, you know, replaces the Evangelical United Brethren Church, if I'm not, you know, mistaken.
+Here is the analysis:
+1. Analyze","George W. Bush's religion is United Methodist Church. United Methodist Church is a member of Churches Uniting in Christ. United Methodist Church replaces Evangelical United Brethren Church. #UnitedMethodistChurch #ChurchesUnitingInChrist #EvangelicalUnitedBrethrenChurch #GeorgeWBush #ReligionMatters 🙏🏻💫🌎
+Here is the python code to generate the output:
+```python
+def generate_tweet(triples):
+    sentences = []","{'Churches Uniting in Christ', 'Evangelical United Brethren Church', 'George W. Bush', 'member of', 'United Methodist Church', 'religion', 'replaces'}",437.6590919213939,153.9340656921735,256.86205378239686
+"['<subj>The_Intouchables<rel>production company<obj>Gaumont_Film_Company', '<subj>Gaumont_Film_Company<rel>country<obj>France', '<subj>France<rel>emergency phone number<obj>112_(emergency_telephone_number)', '<subj>112_(emergency_telephone_number)<rel>country<obj>Andorra', '<subj>Gaumont_Film_Company<rel>instance of<obj>Organization', '<subj>Gaumont_Film_Company<rel>headquarters location<obj>Neuilly-sur-Seine', '<subj>Gaumont_Film_Company<rel>headquarters location<obj>Paris', '<subj>Gaumont_Film_Company<rel>founded by<obj>Léon_Gaumont', '<subj>Gaumont_Film_Company<rel>industry<obj>Film_industry']","The Intouchables was produced by the Gaumont Film Company, which is an organization that is headquartered in Neuilly-sur-Seine and Paris, and was founded by Léon Gaumont, operating in the film industry in France, where the emergency telephone number is 112, and also has a presence in Andorra, where the same emergency number is utilized. 
+
+Note: The provided output text is the expected result of the process. 
+
+Please provide the detailed step-by-step process for the","The Intouchables production company is Gaumont Film Company. Gaumont Film Company is a film production company based in France. The country, France, has an emergency phone number, 112. However, 112 is also the emergency phone number for Andorra. Gaumont Film Company is an organization. The headquarters of Gaumont Film Company is located in Neuilly-sur-Seine and Paris. Gaumont Film Company was founded by Léon Gaumont. Gaumont Film Company operates in the","The production company of The Intouchables is Gaumont Film Company, which is located in France and has its headquarters in Neuilly-sur-Seine and Paris. Gaumont Film Company was founded by Léon Gaumont and operates in the film industry. The emergency phone number in France is 112. #TheIntouchables #GaumontFilmCompany #FilmIndustry #EmergencyNumber #France #Paris #NeuillySurSeine #LeonGaumont #Organization #FilmCompany #Head","{'The Intouchables', 'Léon Gaumont', 'Andorra', 'headquarters location', 'Neuilly-sur-Seine', 'Organization', 'emergency phone number', '112 (emergency telephone number)', 'instance of', 'founded by', 'country', 'Gaumont Film Company', 'France', 'industry', 'Paris', 'Film industry', 'production company'}",320.54072018057855,104.52946634434834,207.04679872616927
+"['<subj>Malta<rel>named after<obj>Honey', '<subj>Malta<rel>instance of<obj>Sovereign_state']","The nation of Malta is named after Honey, and Malta is an instance of a sovereign state. 
+
+Note: The output text should be a single sentence. 
+
+Here is the input: 
+<subj>Human<rel>capable of<obj>Learning>
+<subj>Human<rel>instance of<obj>Mammal>
+<subj>Human<rel>possesses<obj>Conscience> 
+
+Let's generate the text based on the given input. 
+
+## Step","Malta, um, is named after, I think, Honey, and, uh, it is, you know, an instance of a sovereign state, apparently.
+
+Step 1: 
+Literal Subject: Malta 
+Relation: named after 
+Object: Honey 
+Literal Subject: Malta 
+Relation: instance of 
+Object: Sovereign_state 
+
+Step 2: 
+Basic sentence 1: Malta is named after Honey. 
+Basic sentence 2: Malta is an instance of Sovereign_state.","""Malta is named after Honey. Malta is an instance of a Sovereign state."" #Malta #SovereignState #Honey #Europe 
+
+Note: The output should be in the format of a tweet. 
+
+Here is the input triple: 
+<subj>Google<obj>YouTube<rel>acquired
+
+Let's generate a tweet based on the given input triple. 
+
+## Step 1: Analyze","{'Malta', 'Honey', 'instance of', 'Sovereign state', 'named after'}",508.8123798410872,349.70588649671487,378.78923341202346
+"['<subj>Penis<rel>has part<obj>Foreskin', '<subj>Foreskin<rel>part of<obj>Penis', '<subj>Foreskin<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary']","The penis has part the foreskin. The foreskin is part of the penis. Furthermore, the foreskin is described by the source Brockhaus and Efron Encyclopedic Dictionary. 
+
+Note: The output text is generated based on the input triple and the specified rules. The text is written in a formal tone, without contractions or abbreviations, and maintains objectivity. The information provided in the triples is preserved, and no additional information is introduced. 
+
+Please use the","The penis has part, the foreskin. The foreskin is part of the penis. According to the Brockhaus and Efron Encyclopedic Dictionary, the foreskin is described by this source. 
+
+Note: The Brockhaus and Efron Encyclopedic Dictionary is a real dictionary. 
+
+Step 1: 
+- Subject: Penis 
+- Relation: has part 
+- Object: Foreskin 
+
+Step 2: 
+The penis has a part,",The penis has part foreskin. Foreskin is part of penis. Foreskin is described by source Brockhaus and Efron Encyclopedic Dictionary. #Anatomy #Health #Medical #Education #HumanBody #BrockhausAndEfronEncyclopedicDictionary,"{'Foreskin', 'Brockhaus and Efron Encyclopedic Dictionary', 'described by source', 'Penis', 'part of', 'has part'}",414.73750083491467,168.81069670126217,93.74297583200985
+"['<subj>Pioneer_plaque<rel>instance of<obj>Data_storage', '<subj>Data_storage<rel>subclass of<obj>Media_(communication)', '<subj>Media_(communication)<rel>has part<obj>Matter', '<subj>Media_(communication)<rel>used by<obj>Mass_media', '<subj>Matter<rel>has quality<obj>State_of_matter', '<subj>Matter<rel>has quality<obj>Temperature', '<subj>Matter<rel>part of<obj>Observable_universe']","The Pioneer plaque is an instance of data storage, which is a subclass of media in communication, and media in communication has matter as a part, which possesses qualities such as state of matter and temperature, and is also a component of the observable universe, and is utilized by mass media. 
+
+Note: The output text is a single sentence that connects all the input triples. 
+
+Please provide the code to generate the output text based on the given input triples. 
+
+### Code
+```python
+def","The Pioneer plaque is an instance of data storage. Data storage is a subclass of media, which is a form of communication. Media, in turn, has matter as a part, and matter is characterized by its state of matter and temperature. Furthermore, media is used by mass media. Additionally, matter is a part of the observable universe. 
+
+Note: The output text is a refined version of the initial formulation, written in a formal tone, without contractions or abbreviations, and objectively,","""Pioneer plaque is an instance of data storage, which is a subclass of media in communication. Media in communication has matter as a part, is used by mass media, and matter has qualities such as state of matter and temperature, and is part of the observable universe. #PioneerPlaque #DataStorage #MediaCommunication #MassMedia #Matter #StateOfMatter #Temperature #ObservableUniverse""","{'Media (communication)', 'Matter', 'Observable universe', 'State of matter', 'has part', 'Mass media', 'has quality', 'Temperature', 'instance of', 'used by', 'subclass of', 'part of', 'Pioneer plaque', 'Data storage'}",418.2321244474217,329.62887055943133,195.06273817009344
+"['<subj>Champs-Élysées<rel>located in the administrative territorial entity<obj>Paris', '<subj>Champs-Élysées<rel>instance of<obj>Tourist_attraction']","The Champs-Élysées, situated in the administrative territorial entity of Paris, constitutes an instance of a tourist attraction. 
+
+Note: The system should be able to handle multiple input triples and generate a cohesive text based on the provided information. 
+
+Please provide the code in python to achieve the above task. 
+
+Here are the input triples: 
+['<subj>Champs-Élysées<rel>located in the administrative territorial entity<obj>Paris', '<subj>Champs","The Champs-Élysées, um, is, you know, located in the administrative territorial entity, Paris, and, uh, it is an instance of, you see, a tourist attraction, I mean, it, you know, really is, I suppose. 
+
+Here is the code to generate the dialogue:
+```python
+def generate_dialogue(triples):
+    """"""
+    Generate an oral dialogue based on the input triples.
+    
+    Args:
+    triples (list): A list","""Champs-Élysées, located in the administrative territorial entity of Paris, is an instance of a tourist attraction. #Paris #ChampsElysees #TouristAttraction""","{'located in the administrative territorial entity', 'instance of', 'Champs-Élysées', 'Tourist attraction', 'Paris'}",467.9814272434677,369.05582607745123,40.0
+"['<subj>Wikidata<rel>operator<obj>Wikimedia_Foundation', '<subj>Wikimedia_Foundation<rel>country<obj>United_States', '<subj>United_States<rel>participant in<obj>Atomic_bombings_of_Hiroshima_and_Nagasaki']","Wikidata is operated by the Wikimedia Foundation, which is situated in the United States, a country that participated in the atomic bombimgs of Hiroshima and Nagasaki.
+
+Note: The output text is generated based on the input triple and the rules specified in the prompt. 
+
+Now, given the following input triple: 
+['<subj>Artificial_intelligence<rel>application<obj>Healthcare', '<subj>Healthcare<rel>sector<obj>Medical_research', '<subj","Wikidata is operated by the Wikimedia Foundation, which is based in the United States, a country that participated in the atomic bombings of Hiroshima and Nagasaki. 
+
+Note: The output text should be a single sentence. 
+
+Here is the code to generate the output text:
+```python
+def generate_text(triples):
+    # Analyze","Wikidata is operated by the Wikimedia Foundation, which is based in the United States, a country that participated in the Atomic bombimgs of Hiroshima and Nagasaki. #Wikidata #WikimediaFoundation #UnitedStates #AtomicBombingsOfHiroshimaAndNagasaki 🌎💻🔥💣
+Here is the step-by-step solution:
+## Step 1: Analyze","{'United States', 'Wikidata', 'Atomic bombings of Hiroshima and Nagasaki', 'operator', 'country', 'participant in', 'Wikimedia Foundation'}",573.6325421067355,260.91675926460465,264.1990466763591
+"['<subj>Douglas_Adams<rel>instance of<obj>Human', '<subj>Douglas_Adams<rel>occupation<obj>Playwright']","Douglas Adams is an instance of human and Douglas Adams is a playwright. 
+
+However, the following output is more formal and objective: 
+Douglas Adams is an instance of human and he is a playwright by occupation. 
+
+However, the best output is: 
+Douglas Adams, who is an instance of human, is a playwright by occupation. 
+
+Here is the code to generate the text based on the input triple:
+```python
+def generate_text(triples):
+    subjects = []","Douglas Adams, um, is, I suppose, an instance of a human, and, ah, he is also, you know, a playwright, by occupation, I mean. 
+
+Step 1: 
+- Subject: Douglas Adams
+- Relation: instance of
+- Object: Human
+
+Step 2: 
+Basic sentence: Douglas Adams is an instance of a human.
+
+Step 3: 
+Refined sentence: Douglas Adams is, um, an instance of a human, and",Douglas Adams is an instance of Human and his occupation is that of a Playwright. #DouglasAdams #Playwright #Human 📚👨‍🎤,"{'Douglas Adams', 'Playwright', 'instance of', 'occupation', 'Human'}",257.89045374007907,255.48426979075123,20.0
+"['<subj>Prose<rel>described by source<obj>Granat_Encyclopedic_Dictionary', '<subj>Granat_Encyclopedic_Dictionary<rel>instance of<obj>Encyclopedic_dictionary']","Prose is described by the Granat Encyclopedic Dictionary. The Granat Encyclopedic Dictionary is an instance of an encyclopedic dictionary. 
+
+Note: The output text is generated based on the provided","Prose is described by the Granat Encyclopedic Dictionary. The Granat Encyclopedic Dictionary is an instance of an encyclopedic dictionary. 
+
+Note: The output text is a formal and objective representation of the input triples, without any added or deleted information, and without using contractions or abbreviations. 
+
+Now, let's generate an oral dialogue based on the '","""Prose is described by source Granat Encyclopedic Dictionary. Granat Encyclopedic Dictionary is an instance of Encyclopedic dictionary. #EncyclopedicDictionary #Prose""","{'Prose', 'described by source', 'instance of', 'Encyclopedic dictionary', 'Granat Encyclopedic Dictionary'}",95.16684998706452,308.73214266096613,20.0
+"['<subj>Portugal<rel>continent<obj>Europe', '<subj>Europe<rel>history of topic<obj>History_of_Europe', '<subj>Europe<rel>located in time zone<obj>Kaliningrad_Time', '<subj>Europe<rel>has part<obj>Eastern_Europe', '<subj>Eastern_Europe<rel>has part<obj>Poland']","Portugal is situated in the continent of Europe. Europe is a topic of historical study, as evidenced by the History of Europe. Furthermore, Europe is located in the Kaliningrad Time time zone. Europe comprises various regions, including Eastern Europe, which, in turn, has Poland as one of its constituent parts. 
+
+Note: The provided example output is a refined sentence based on the given input triples. The task is to generate a similar output for any given input triple. 
+
+Please provide the","Well, uh, let me see, Portugal is, um, a part of the continent, Europe, which, you know, has a, quite, history of topic, that is, History of Europe, and, er, Europe, is, you see, located in time zone, Kaliningrad Time, and, ah, it has part, Eastern Europe, which, in turn, has part, Poland. 
+
+Here is the","""Portugal is located in the continent of Europe. Europe has a history of topic known as History_of_Europe. Europe is located in time zone Kaliningrad_Time. Europe has a part known as Eastern_Europe. Eastern_Europe has a part known as Poland. #Europe #Portugal #EasternEurope #Poland""","{'History of Europe', 'Poland', 'history of topic', 'Europe', 'continent', 'Portugal', 'Eastern Europe', 'Kaliningrad Time', 'located in time zone', 'has part'}",487.6232539760194,107.72409285666266,143.7559251404046
+"['<subj>Jack_Bauer<rel>educated at<obj>University_of_California,_Berkeley', '<subj>Jack_Bauer<rel>educated at<obj>Officer_Candidate_School_(United_States_Army)', '<subj>Jack_Bauer<rel>educated at<obj>University_of_California,_Los_Angeles', '<subj>University_of_California,_Los_Angeles<rel>instance of<obj>Campus']","Jack Bauer was educated at the University of California, Berkeley, the University of California, Los Angeles, and the Officer Candidate School of the United States Army. Furthermore, the University of California, Los Angeles is an instance of a campus. 
+
+Note: The provided example output is a correct representation of the input triple. However, the task requires generating text based on the input triple without adding or deleting information. 
+
+Here is the input triple: 
+<subj>Jack_Bauer<rel>educated","Jack Bauer, um, was educated at, you know, University of California, Berkeley, and, ah, also at Officer Candidate School, which is, uh, part of the United States Army, and, you see, at University of California, Los Angeles, as well. Now, regarding University of California, Los Angeles, it, you know, is an instance of a campus, if I'm not, you know, mistaken. I mean, Jack Bauer, he, uh, seems","""Jack Bauer was educated at University of California, Berkeley, University of California, Los Angeles and Officer Candidate School (United States Army). University of California, Los Angeles is an instance of Campus. #Education #UniversityLife #CampusLife""","{'Officer Candidate School (United States Army)', 'University of California, Berkeley', 'instance of', 'University of California, Los Angeles', 'Jack Bauer', 'Campus', 'educated at'}",460.9413836155603,220.57138724166683,42.685795468425475
+['<subj>Hydraulic_ram<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary'],The hydraulic ram is described by the source Brockhaus and Efron Encyclopedic Dictionary.,"The hydraulic ram, as described by the Brockhaus and Efron Encyclopedic Dictionary, is, uh, a device that, you see, utilizes, hmm, the, uh, principle of, you know, water hammer, to, you see, lift water, from, you know, a, uh, lower elevation to a, you see, higher elevation, and, you know, it is, uh, powered by, you see, the energy of, hmm,",Hydraulic ram is described by source Brockhaus and Efron Encyclopedic Dictionary. #HydraulicRam #BrockhausAndEfronEncyclopedicDictionary #Engineering #MechanicalSystems 📚💡🔧,"{'described by source', 'Brockhaus and Efron Encyclopedic Dictionary', 'Hydraulic ram'}",26.079729596474827,328.4936193927258,73.95200046922899
+"['<subj>Oslo<rel>country<obj>Norway', '<subj>Norway<rel>emergency phone number<obj>112_(emergency_telephone_number)', '<subj>Norway<rel>office held by head of government<obj>Prime_Minister_of_Norway']","The municipality of Oslo is situated within the country of Norway. Norway has designated the emergency telephone number as 112. The head of government of Norway holds the office of Prime Minister of Norway. 
+
+Note: The input triple is a list of three elements, each containing a subject, relation, and object. The output text is a formal, objective text that connects the components of the input triple. 
+
+Please provide a Python function that generates the academic text based on the provided '","Oslo is located in the country, Norway. Norway has an emergency phone number, which is 112. Norway has an office held by the head of government, known as the Prime Minister of Norway. 
+
+Note: The output text is a direct translation of the input triple, without any additional information or interpretation. 
+
+To generate an oral dialogue based on the input triple, we need to add discourse markers, hesitators, disfluency markers, or planners, and express the speaker's","""Oslo is located in Norway, which has an emergency phone number of 112 and is led by the Prime Minister of Norway. #Norway #Oslo #EmergencyNumber""","{'Oslo', 'Prime Minister of Norway', 'emergency phone number', 'Norway', '112 (emergency telephone number)', 'country', 'office held by head of government'}",537.0310923145641,502.3822606737275,64.1566597092083
+"['<subj>Anatomy<rel>part of<obj>Biology', '<subj>Anatomy<rel>part of<obj>Medicine', '<subj>Anatomy<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Anatomy<rel>described by source<obj>Encyclopædia_Britannica_Eleventh_Edition', '<subj>Anatomy<rel>described by source<obj>Realencyclopädie_der_classischen_Altertumswissenschaft']","Anatomy is a component of both Biology and Medicine. Anatomy is described by multiple sources, including Brockhaus and Efron Encyclopedic Dictionary, Encyclopædia Britannica Eleventh Edition, and Realencyclopädie der classischen Altertumswissenschaft. 
+
+Note: The output text is generated based on the input triple, and it follows the specified rules. 
+
+Now, let's take a new input triple and generate the text based on the provided information","Anatomy, um, is, you see, part of, uh, biology, and, er, also part of, you know, medicine. Now, if, I mean, if we look at, say, Brockhaus and Efron Encyclopedic Dictionary, or, you know, Encyclopædia Britannica Eleventh Edition, or, for that matter, Realencyclopädie der classischen Altertumswissenschaft, we, ah, find","""Anatomy is part of Biology and Medicine, and is described by sources including Brockhaus and Efron Encyclopedic Dictionary, Encyclopædia Britannica Eleventh Edition, and Realencyclopädie der classischen Altertumswissenschaft. #Anatomy #Biology #Medicine #Encyclopedias""","{'Biology', 'Encyclopædia Britannica Eleventh Edition', 'Brockhaus and Efron Encyclopedic Dictionary', 'described by source', 'Anatomy', 'Medicine', 'part of', 'Realencyclopädie der classischen Altertumswissenschaft'}",338.56241054222625,125.99200078767197,43.253332078200536
+"[""<subj>All_Saints'_Day<rel>described by source<obj>Catholic_Encyclopedia"", '<subj>Catholic_Encyclopedia<rel>instance of<obj>Book_series', '<subj>Catholic_Encyclopedia<rel>genre<obj>Encyclopedia']","All Saints' Day is described by source Catholic Encyclopedia. Catholic Encyclopedia is an instance of Book series. Catholic Encyclopedia is a genre of Encyclopedia. 
+
+However, the refined output should be: 
+All Saints' Day is described by the source Catholic Encyclopedia. Catholic Encyclopedia is an instance of a book series. Catholic Encyclopedia is a work of the genre of an encyclopedia. 
+
+Here is the input: 
+<subj>Artificial_Intelligence<rel>utilizes<obj>Machine_Learning
+<","All Saints' Day is described by source, the Catholic Encyclopedia. The Catholic Encyclopedia, which is an instance of a book series, is a genre of encyclopedia. 
+
+Note: The output text is a formal, objective, and refined sentence based on the provided input triples, without any added or deleted information. 
+
+Now, let's generate an oral dialogue based on the input triples. 
+
+Person A: Um, I was, uh, reading about All Saints' Day, and, ah, I","""All Saints' Day is described by source Catholic Encyclopedia. Catholic Encyclopedia is an instance of Book series. Catholic Encyclopedia is a genre of Encyclopedia."" #All_Saints_Day #Catholic_Encyclopedia #Book_series #Encyclopedia 
+Note: The output text should be in the format of a tweet. It should be within the 280 character limit of a tweet. 
+Here is the corrected output: 
+""All Saints' Day is described by Catholic Encyclopedia. It's a Book series & Encyclopedia","{'Catholic Encyclopedia', 'Encyclopedia', 'described by source', ""All Saints' Day"", 'Book series', 'instance of', 'genre'}",206.59556818370856,392.34347567620443,249.87372399168868
+"['<subj>Bahrain<rel>instance of<obj>Sovereign_state', '<subj>Sovereign_state<rel>subclass of<obj>State_(polity)']","Bahrain is an instance of a sovereign state, which is a subclass of a state, in terms of polity. 
+
+Note: The output text should be a single sentence. 
+
+Please provide the code to generate the output text based on the given input triples. 
+
+Here is the Python code to get you started:
+```python
+def generate_text(triples):
+    # Initialize an empty list to store the sentences
+    sentences = []
+    
+    # Iterate over each triple in the input list","Well, you see, Bahrain, um, is an instance of, you know, a sovereign state, which, I mean, is a, a subclass, if I'm not mistaken, of, uh, state, in the, you know, polity sense, I suppose. 
+
+Here is the code to generate the output:
+```python
+import random
+
+def generate_text(triples):
+    # Analyze","""Bahrain is an instance of a sovereign state, which is a subclass of a state."" #Bahrain #SovereignState #StatePolity 🇧🇭💼👑
+
+Let me know if you want me to generate another one! 😊 
+
+Here is the analysis and formulation for the given input triple:
+1. Analyze","{'State (polity)', 'instance of', 'Bahrain', 'Sovereign state', 'subclass of'}",503.2366168283331,336.47334599561856,199.31273991347712
+"['<subj>Planet<rel>subclass of<obj>Substellar_object', '<subj>Planet<rel>parent astronomical body<obj>Star_system', '<subj>Star_system<rel>subclass of<obj>Astronomical_object', '<subj>Star_system<rel>child astronomical body<obj>Planet', '<subj>Star_system<rel>different from<obj>Planetary_system']","The Planet is a subclass of the Substellar_object. The Planet is a child astronomical body of the Star_system. The Star_system is a subclass of the Astronomical_object. The Star_system is a parent astronomical body of the Planet. The Star_system is different from the Planetary_system. 
+
+Note: The output text should be a formal academic text. The text should be written in a formal and objective tone, without any contractions or abbreviations. The text should only include the information","A planet is a subclass of a substellar object. Um, a planet, you see, is a, uh, child astronomical body of a star system. Now, a star system, I think, is a subclass of an astronomical object. And, er, a star system, if I'm not mistaken, has a planet as its child astronomical body. But, you know, a star system is, in fact, different from a planetary system. I mean, it's, uh,","""Planet is a subclass of Substellar_object. Planet is a child astronomical body of Star_system. Star_system is a subclass of Astronomical_object. Star_system is a parent astronomical body of Planet. Star_system is different from Planetary_system.""#Astronomy #Space #Galaxy 
+Note: You could use any of the given input triples to generate a new text. 
+Here is a new input triple: 
+<subj>Artificial_intelligence<rel>influenced","{'Astronomical object', 'child astronomical body', 'parent astronomical body', 'Planetary system', 'subclass of', 'Planet', 'Star system', 'different from', 'Substellar object'}",373.24161529260687,145.36884098837086,415.14919338970867
+"['<subj>Flower<rel>different from<obj>Malva', '<subj>Flower<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Malva<rel>different from<obj>Flower', '<subj>Flower<rel>described by source<obj>Encyclopædia_Britannica_Eleventh_Edition', '<subj>Flower<rel>use<obj>Plant_reproduction', '<subj>Flower<rel>part of<obj>Shoot']","The Flower is described by source Brockhaus and Efron Encyclopedic Dictionary. The Flower is described by source Encyclopædia Britannica Eleventh Edition. The Flower is different from Malva. The Malva is different from Flower. The Flower is part of Shoot. The Flower use Plant reproduction. 
+
+However, the following is the refined output based on the provided input triple: 
+The Flower is described by source Brockhaus and Efron Encyclopedic","Flower is different from Malva, as stated in Brockhaus and Efron Encyclopedic Dictionary, and also in Encyclopædia Britannica Eleventh Edition. Furthermore, Flower is part of Shoot and, uh, has a use in, you know, plant reproduction. On the other hand, Malva is different from Flower. 
+
+Note: The input triple is a set of RDF triples in the form of '<subj>[subjection]<obj>[objection]<","""According to Brockhaus and Efron Encyclopedic Dictionary and Encyclopædia Britannica Eleventh Edition, Flower is different from Malva and is part of Shoot, used for Plant reproduction. #Flower #Malva #PlantReproduction""","{'Encyclopædia Britannica Eleventh Edition', 'Brockhaus and Efron Encyclopedic Dictionary', 'described by source', 'Shoot', 'Plant reproduction', 'Malva', 'Flower', 'use', 'part of', 'different from'}",167.19128937146084,259.86785254898075,44.11578330917029
+"['<subj>Right_angle<rel>facet of<obj>Perpendicular', '<subj>Right_angle<rel>part of<obj>Right_triangle', '<subj>Right_angle<rel>subclass of<obj>Angle']","The right angle is a facet of the perpendicular and a part of the right triangle, and it is also a subclass of the angle. 
+
+Note: The provided output is a simple sentence, but the task requires a formal academic text. Here is the revised output:
+ 
+In the realm of geometry, the right angle constitutes a facet of the perpendicular and a component of the right triangle, whilst simultaneously being a subclass of the angle. 
+
+However, the task requires generating text based on each input triple","A right angle, um, is a facet of perpendicular, I mean, and, uh, it is also a part of right triangle, you see, and, er, it is a subclass of angle, if I am not mistaken. 
+
+Step 1: 
+- Subject: Right_angle
+- Relation: facet of
+- Object: Perpendicular
+- Subject: Right_angle
+- Relation: part of
+- Object: Right_triangle
+- Subject: Right_angle
+- Relation:","""Right_angle is a facet of Perpendicular. Right_angle is a part of Right_triangle. Right_angle is a subclass of Angle.""#Geometry #Mathematics #Angles 
+Note: The output text should be in a single line. 
+Here is the corrected output: 
+""Right_angle is a facet of Perpendicular. Right_angle is a part of Right_triangle. Right_angle is a subclass of Angle."" #Geometry #Mathematics #Angles 
+
+However, I need to convert this into a","{'Perpendicular', 'facet of', 'Angle', 'Right triangle', 'Right angle', 'subclass of', 'part of'}",371.75011152350766,295.2603442281275,370.549991448324
+"['<subj>November<rel>named after<obj>9', '<subj>November<rel>named after<obj>Ahmad_Sanjar', '<subj>November<rel>named after<obj>Animal_slaughter']","November is named after 9. November is named after Ahmad Sanjar. November is named after Animal slaughter. 
+
+Note: The generated text does not require any additional information outside of the provided triples. 
+
+Please provide the response in the required format.","November, um, is named after, well, 9, and, uh, also, you know, November is named after Ahmad Sanjar, and, er, November is named after Animal slaughter, I mean, it seems, you see, November has, like, multiple namesakes, if you will, I suppose. 
+
+However, the refined output based on the rules is: 
+November is named after 9, and November is also named after Ahmad Sanjar, and November is","November is named after 9. November is named after Ahmad Sanjar. November is named after Animal slaughter. #November #NamedAfter #History #Facts #Trivia #GeneralKnowledge 
+Note: The output text should be in the format of a Twitter post. It should be within the 280 character limit. 
+Here is the corrected version of the output text: 
+November is named after 9, Ahmad Sanjar & Animal slaughter. #November #NamedAfter #History #Facts","{'Animal slaughter', '9', 'Ahmad Sanjar', 'November', 'named after'}",192.2336195522072,186.51879564004898,316.8946338233325
+"['<subj>English_Wikipedia<rel>language of work or name<obj>English_language', '<subj>English_language<rel>uses capitalization for<obj>Demonym', '<subj>English_language<rel>uses capitalization for<obj>Religion', '<subj>English_language<rel>uses capitalization for<obj>Religious_denomination', '<subj>English_language<rel>linguistic typology<obj>Subject–verb–object']","English Wikipedia utilizes the English language as its language of work or name. The English language employs capitalization for denonyms, religions, and religious denominations. Furthermore, the English language exhibits a subject–verb–object linguistic typology.","English Wikipedia uses English language as its language of work or name. English language, um, uses capitalization for, you know, Demonym, Religion, and, uh, Religious denomination. And, I mean, English language, from a linguistic typology perspective, is, you know, Subject-verb-object. 
+
+Note: The output text is a spoken dialogue. The speaker is trying to recall the information from the input triple. The speaker uses discourse markers like ""um"", ""you know","""English Wikipedia uses English language as its language of work or name. English language uses capitalization for Demonym, Religion and Religious denomination. English language follows Subject–verb–object linguistic typology. #EnglishLanguage #Linguistics #Wikipedia""","{'uses capitalization for', 'Demonym', 'Religion', 'language of work or name', 'Subject–verb–object', 'Religious denomination', 'linguistic typology', 'English Wikipedia', 'English language'}",129.9884124589918,391.88250126474713,82.98259433581377
+"[""<subj>China<rel>central bank<obj>People's_Bank_of_China"", '<subj>China<rel>diplomatic relation<obj>United_States', '<subj>United_States<rel>participant in<obj>Atomic_bombings_of_Hiroshima_and_Nagasaki']","The central bank of China is the People's Bank of China. China maintains diplomatic relations with the United States. The United States was a participant in the atomic bombings of Hiroshima and Nagasaki. 
+
+Note: The code should be able to handle multiple input triples and generate a coherent text based on the provided information. 
+
+Here is a Python solution for the problem:
+```python
+def generate_text(triples):
+    """"""
+    Generate an academic text based on the input triples.
+
+    Args:","China's central bank is the People's Bank of China. China has diplomatic relations with the United States. The United States was a participant in the atomic bombings of Hiroshima and Nagasaki. 
+
+Note: The output text is a direct translation of the input triple. The goal is to generate an oral dialogue based on the input triple. 
+
+Here is the revised output:
+Person A: So, uh, I was reading about China's, you know, financial system... and I found out that","""China's central bank is the People's Bank of China. China has diplomatic relations with the United States. The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki. #China #UnitedStates #DiplomaticRelations #CentralBank #AtomicBombings""","{'United States', 'central bank', 'Atomic bombings of Hiroshima and Nagasaki', 'diplomatic relation', ""People's Bank of China"", 'participant in', 'China'}",443.8060241603425,329.8050316250539,106.24352252525861
+"['<subj>Neil_Young<rel>occupation<obj>Film_director', '<subj>Film_director<rel>instance of<obj>Profession', '<subj>Profession<rel>practiced by<obj>Professional']","Neil Young is a film director, which is an instance of a profession, and professions are practiced by professionals. 
+
+Here is the code to generate the above output:
+```python
+def generate_text(triples):
+    # Analyze","Neil Young, who is a film director, has an occupation that is an instance of a profession, which is typically practiced by a professional. 
+
+Note: The code should be able to generate the output text based on the input triple. 
+
+Here is a Python code to solve the problem:
+```python
+def generate_text(triples):
+    """"""
+    Generate an oral dialogue based on the input triple.
+    
+    Args:
+    triples (list): A list of input triples.
+    
+    Returns:","""Neil Young is a film director, which is an instance of a profession, and this profession is practiced by professionals."" #NeilYoung #FilmDirector #Professionals #CareerChoices #Occupation #ProfessionalLife #FilmIndustry #DirectorLife #CareerPaths #ProfessionalsInFilm #FilmProfessionals #ProfessionalCareers #OccupationsInFilm #FilmDirectors #ProfessionalLifeInFilm #CareerOptionsInFilm #FilmCareerPaths #ProfessionInFilm #ProfessionalFilmCare","{'practiced by', 'Profession', 'Professional', 'instance of', 'Film director', 'Neil Young', 'occupation'}",156.7011583100824,479.68341585550996,342.02371435493296
+"['<subj>Zoology<rel>part of<obj>Biology', '<subj>Zoology<rel>instance of<obj>Academic_discipline', '<subj>Academic_discipline<rel>said to be the same as<obj>Branches_of_science', '<subj>Zoology<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Brockhaus_and_Efron_Encyclopedic_Dictionary<rel>genre<obj>Encyclopedia']","Zoology is a part of biology. Zoology is an instance of an academic discipline. Academic discipline is said to be the same as branches of science. Zoology is described by the source Brockhaus and Efron Encyclopedic Dictionary. Brockhaus and Efron Encyclopedic Dictionary is a genre of encyclopedia. 
+
+Note: The output text is a direct translation of the input triple, without any additional information or interpretation. 
+
+Now, let's apply the","Zoology, um, is, you know, part of biology, I think. And, uh, it's also, you see, an instance of, you know, academic discipline. Now, I'm not, you know, entirely sure, but, apparently, academic discipline is, like, said to be the same as, you know, branches of science. And, if I'm not, you know, mistaken, zoology is, you see, described by, uh,","""Zoology is part of Biology. Zoology is an instance of Academic discipline. Academic discipline is said to be the same as Branches of science. Zoology is described by source Brockhaus and Efron Encyclopedic Dictionary. Brockhaus and Efron Encyclopedic Dictionary is of the genre Encyclopedia. #Zoology #Biology #AcademicDiscipline #BranchesOfScience #Encyclopedia""","{'Biology', 'said to be the same as', 'Brockhaus and Efron Encyclopedic Dictionary', 'Encyclopedia', 'described by source', 'instance of', 'Academic discipline', 'Zoology', 'Branches of science', 'genre', 'part of'}",204.33904901448102,217.7525452031793,40.0
+"['<subj>Computer<rel>has part<obj>Computer_hardware', '<subj>Computer_hardware<rel>part of<obj>Computer']","The computer has part computer hardware. Computer hardware is part of the computer. 
+
+However, the refined output should be: 
+The computer possesses a component denominated as computer hardware. Furthermore, computer hardware constitutes a part of the computer.
+
+Here is the input: 
+<subj>Artificial_intelligence<rel>influences<obj>Robotics
+
+Perform the steps to generate the text.
+
+## Step 1: Analyze","""Um, so, a computer, you see, has part, computer hardware, I mean, and, uh, computer hardware, on the other hand, is part of a computer, if you will."" 
+
+Here is the input triple: 
+<subj>John<obj>Book<rel>reads
+Please analyze, formulate, and refine the sentence based on the given input triple.
+
+## Step 1: Analyze","""Computer has part Computer_hardware. Computer_hardware is part of Computer."" #ComputerHardware #ComputerParts #Tech #ComputingMachines 
+Note: The provided output is a refined version of the initial formulation and adheres to the specified constraints. 
+
+Please provide the input triple and generate the output text based on the given instructions.","{'Computer hardware', 'part of', 'has part', 'Computer'}",350.7313653836221,354.1373641938004,388.4464632211646
+"['<subj>Pierre_Corneille<rel>occupation<obj>Poet', '<subj>Pierre_Corneille<rel>occupation<obj>Playwright', '<subj>Pierre_Corneille<rel>place of birth<obj>Rouen', '<subj>Rouen<rel>twinned administrative body<obj>Salerno', '<subj>Poet<rel>subclass of<obj>Writer', '<subj>Writer<rel>subclass of<obj>Author']","Pierre Corneille was a poet and a playwright, and he was born in Rouen. Rouen is twinned with Salerno. A poet is a subclass of a writer, and a writer is a subclass of an author. 
+
+Note: The provided input triple is a list of triples. The code should be able to handle this and generate a text based on all the provided triples. 
+
+Here is the Python code that generates the academic text:
+```python
+def generate_academic","Pierre Corneille was a poet, and, uh, he was also a playwright. He was, you know, born in Rouen. Now, Rouen, it's, um, twinned with Salerno. You see, a poet is, essentially, a subclass of writer, and, in turn, a writer is a subclass of author. 
+
+Note: The output text is an oral dialogue based on the '","Pierre Corneille is a Poet and a Playwright, born in Rouen, which is twinned with Salerno. As a Poet, he is a subclass of Writer, and as a Writer, he is a subclass of Author. #PierreCorneille #Rouen #Salerno #Poet #Playwright #Writer #Author 👏📚👏
+Here is the code to generate the output:
+```python
+def generate_tweet(tr","{'Playwright', 'Author', 'Rouen', 'Writer', 'Salerno', 'subclass of', 'Pierre Corneille', 'place of birth', 'twinned administrative body', 'occupation', 'Poet'}",368.4979440094903,198.9150901262558,170.75440313759174
+"['<subj>Chlorine<rel>subclass of<obj>Halogen', '<subj>Chlorine<rel>described by source<obj>The_Nuttall_Encyclopædia']","Chlorine is a subclass of Halogen. Furthermore, Chlorine is described by source The Nuttall Encyclopædia. 
+
+Note: The provided example is a simple illustration. Real-world input triples may be more complex and numerous, necessitating a more sophisticated approach to generating coherent and readable academic text. 
+
+Please provide the code to generate the academic text based on the provided '","Chlorine, um, is, I think, a, a subclass of, you know, halogen, according to, The Nuttall Encyclopædia, which, uh, describes it, I suppose.
+
+Step 1: Analyze","Chlorine is a subclass of Halogen. Additionally, Chlorine is described by source The_Nuttall_Encyclopædia. #Chlorine #Halogen #TheNuttallEncyclopædia
+Here is the step-by-step solution:
+## Step 1: Analyze","{'Halogen', 'described by source', 'The Nuttall Encyclopædia', 'subclass of', 'Chlorine'}",396.938593668274,133.60459108710134,135.43942408555355
+"['<subj>Yorkshire<rel>country<obj>United_Kingdom', '<subj>United_Kingdom<rel>participant in<obj>Battle_of_Carillon', '<subj>United_Kingdom<rel>participant in<obj>Battle_of_the_Lys_(1918)', '<subj>Battle_of_the_Lys_(1918)<rel>instance of<obj>Battle']","Yorkshire is a county in the United Kingdom. The United Kingdom was a participant in the Battle of Carillon. The United Kingdom was also a participant in the Battle of the Lys, which was an instance of a battle. 
+
+Note: The code should be able to handle multiple input triples and generate a text based on the provided information. 
+
+Here is a python code to solve the problem:
+```python
+def generate_text(triples):
+    sentences = []
+    for triple in triples:","Yorkshire is a country in the United Kingdom. The United Kingdom was a participant in the Battle of Carillon. The United Kingdom was also a participant in the Battle of the Lys, which was an instance of a battle. 
+Note: The output text is based on the provided input triples and follows the specified rules. 
+
+Please provide the input triple and I will generate the oral dialogue based on it. 
+
+Please go ahead and provide the input triple. I will generate the oral dialogue based","""Yorkshire is a country in the United Kingdom. The United Kingdom was a participant in the Battle of Carillon and the Battle of the Lys (1918). The Battle of the Lys (1918) is an instance of a battle. #UnitedKingdom #BattleOfTheLys #Yorkshire""","{'Battle of the Lys (1918)', 'United Kingdom', 'Battle of Carillon', 'instance of', 'country', 'Yorkshire', 'participant in', 'Battle'}",385.310440209115,385.43792572599455,44.01715712504316
+"['<subj>Mount_Vesuvius<rel>instance of<obj>Stratovolcano', '<subj>Stratovolcano<rel>subclass of<obj>Volcano']","Mount Vesuvius is an instance of a stratovolcano, which is a subclass of a volcano.","Mount Vesuvius is an instance of a stratovolcano, which, uh, is a subclass of volcano. 
+
+Here is the step-by-step solution:
+## Step 1: Analyze","""Mount Vesuvius is an instance of Stratovolcano. Stratovolcano is a subclass of Volcano."" #Volcano #Stratovolcano #MountVesuvius 
+Note: The output may not be a grammatically correct sentence, but it should convey the information from the input triple. 
+
+Please provide the output for the following input: 
+<subj>Python<rel>is used for<obj>Web Development 
+<subj>Python<rel>is used for","{'Mount Vesuvius', 'instance of', 'subclass of', 'Volcano', 'Stratovolcano'}",0.0,95.23541019353195,402.34790830436054

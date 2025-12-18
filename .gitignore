@@ -1,0 +1,7 @@
+/*
+
+# 2. Whitelist (Keep) specific folders
+!/Data/
+!/Triple Selection/
+!/Text Generation/
+!.gitignore

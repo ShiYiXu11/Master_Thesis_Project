@@ -1,0 +1,203 @@
+triples,academic,oral,twitter
+"['<subj>Pasta<rel>partially coincident with<obj>Bánh', '<subj>Pasta<rel>partially coincident with<obj>Noodle', '<subj>Pasta<rel>material used<obj>Wheat_flour', '<subj>Pasta<rel>country of origin<obj>Kingdom_of_Italy', '<subj>Pasta<rel>described by source<obj>Grosses_vollständiges_Universal-Lexicon', '<subj>Pasta<rel>country of origin<obj>China', '<subj>Pasta<rel>has part<obj>Durum']",Pasta is a type of noodle that is partially coincident with Bánh. It is made from wheat flour and originated in the Kingdom of Italy. It is also partially coincident with noodles from China.,"Speaker A: Hey, I was looking into the... um... the pasta.
+ Speaker B: Oh, yeah? The pasta... where is that?
+ Speaker A: Well, its country of origin is Kingdom of Italy.
+ Speaker B: Kingdom of Italy, right. And, uh, what about its country of origin?
+ Speaker A: Let's see... the country of origin is China.
+ Speaker B: China. Got it","Pasta is a type of food that is partially coincident with Bánh and Noodle. It is made from wheat flour and originated in the Kingdom of Italy. It is also described by the Grosses vollständiges Universal-Lexicon and has a part called Durum. Pasta is also partially coincident with Bánh and Noodle, and originated in China."
+"['<subj>Augusto_Pinochet<rel>country of citizenship<obj>Chile', '<subj>Chile<rel>currency<obj>Chilean_peso', '<subj>Chile<rel>geography of topic<obj>Geography_of_Chile']","Augusto Pinochet, a Chilean citizen, was born in Chile. The currency of Chile is the Chilean peso. The geography of Chile is the subject of the article Geography of Chile.","Speaker A: Hey, do you know Augusto Pinochet?
+Speaker B: Oh, yeah, he was a dictator in Chile.
+Speaker A: Right, and Chile's currency is the Chilean peso.
+Speaker B: That's right, and the geography of Chile is really interesting.
+Speaker A: Yeah, it's a long, narrow country with a lot of mountains.
+Speaker B: And","Augusto Pinochet, a Chilean citizen, was born in Chile and used the Chilean peso as currency. The geography of Chile is also a topic of interest. #Chile #Pinochet #Geography"
+"['<subj>Internet<rel>discoverer or inventor<obj>Vint_Cerf', '<subj>Vint_Cerf<rel>occupation<obj>Engineer', '<subj>Vint_Cerf<rel>occupation<obj>Technology_evangelist']",Vint Cerf is the discoverer or inventor of the Internet. He is an engineer and a technology evangelist.,"### Prompt:
+\
+Q: Generate an oral dialogue based on the '","Vint Cerf, the discoverer or inventor of the Internet, is also an engineer and technology evangelist."
+"['<subj>Talisker_distillery<rel>located in the administrative territorial entity<obj>Highland_(council_area)', '<subj>Highland_(council_area)<rel>located in the administrative territorial entity<obj>Scotland']",The Talisker distillery is located in the administrative territorial entity of Highland (council area). Highland (council area) is located in the administrative territorial entity of Scotland.,"Speaker A: Hey, I was looking into the... um... the Talisker distillery.
+ Speaker B: Oh, yeah? The Talisker distillery... where is that?
+ Speaker A: Well, its located in the administrative territorial entity is Highland.
+ Speaker B: Highland, right. And, uh, what about its located in the administrative territorial entity?
+ Speaker A: Let's see... the located in the administrative territorial",Talisker distillery is located in the Highland council area of Scotland.
+"['<subj>Museum_of_Fine_Arts_of_Lyon<rel>located in the administrative territorial entity<obj>1st_arrondissement_of_Lyon', '<subj>Museum_of_Fine_Arts_of_Lyon<rel>located in the administrative territorial entity<obj>Lyon', '<subj>Lyon<rel>twinned administrative body<obj>Łódź', '<subj>Lyon<rel>twinned administrative body<obj>Milan']","The Museum of Fine Arts of Lyon is located in the 1st arrondissement of Lyon, which is a city in France. Lyon is twinned with Łódź and Milan.","Speaker A: Hey, I was looking into the... um... the Museum of Fine Arts of Lyon.
+ Speaker B: Oh, yeah? The Museum of Fine Arts of Lyon... where is that?
+ Speaker A: Well, its located in the administrative territorial entity is 1st arrondissement of Lyon.
+ Speaker B: 1st arrondissement of Lyon, right. And, uh, what about its located in the administrative territorial entity?
+ Speaker A","The Museum of Fine Arts of Lyon is located in the 1st arrondissement of Lyon, France. Lyon is twinned with Łódź, Poland and Milan, Italy."
+"['<subj>Ich_bin_ein_Berliner<rel>different from<obj>Tear_down_this_wall!', '<subj>Tear_down_this_wall!<rel>main subject<obj>Berlin_Wall', '<subj>Tear_down_this_wall!<rel>author<obj>Ronald_Reagan', '<subj>Tear_down_this_wall!<rel>different from<obj>Ich_bin_ein_Berliner', '<subj>Tear_down_this_wall!<rel>location<obj>Brandenburg_Gate', '<subj>Ronald_Reagan<rel>country of citizenship<obj>United_States', '<subj>Ronald_Reagan<rel>place of death<obj>Bel_Air,_Los_Angeles']","The phrase ""Tear down this wall!"" is different from ""Ich bin ein Berliner"" and was authored by Ronald Reagan. The main subject of the phrase is the Berlin Wall, and it was spoken at the Brandenburg Gate. Ronald Reagan was a citizen of the United States and died in Bel Air, Los Angeles.","Speaker A: Hey, I was looking into the... um... the Tear down this wall!
+ Speaker B: Oh, yeah? The Tear down this wall!... where is that?
+ Speaker A: Well, its location is Brandenburg Gate.
+ Speaker B: Brandenburg Gate, right. And, uh, what about its author?
+ Speaker A: Let's see... the author is Ronald Reagan.
+ Speaker B: Ronald","Ronald Reagan, a citizen of the United States, delivered the famous speech ""Tear down this wall!"" at the Brandenburg Gate in Berlin, Germany. This speech is different from the ""Ich bin ein Berliner"" speech."
+"['<subj>Hydrogen<rel>discoverer or inventor<obj>Henry_Cavendish', '<subj>Hydrogen<rel>different from<obj>Hydrogen_atom']",Henry Cavendish is the discoverer or inventor of hydrogen. Hydrogen is different from hydrogen atom.,"Hydrogen is a chemical element with symbol H and atomic number 1. It is the lightest and most abundant element in the universe. Hydrogen was discovered by Henry Cavendish in 1766. Hydrogen is different from a hydrogen atom, which is the simplest atom consisting of one electron and one proton.","Hydrogen was discovered by Henry Cavendish, but it's different from a hydrogen atom. #Hydrogen #Discovery #Science"
+"['<subj>Po_(river)<rel>continent<obj>Europe', '<subj>Europe<rel>history of topic<obj>History_of_Europe', '<subj>Europe<rel>located in time zone<obj>Kaliningrad_Time', '<subj>Europe<rel>has part<obj>Eastern_Europe']","The Po River is located in Europe, which is a continent. The history of Europe is a topic that has been studied for centuries. Europe is located in the Kaliningrad Time Zone. Eastern Europe is a part of Europe.","Speaker A: Do you know the Po River?
+Speaker B: Yeah, it's a river in Europe.
+Speaker A: That's right. And do you know the history of Europe?
+Speaker B: Yes, it's the history of Europe.
+Speaker A: And what about the time zone of Europe?
+Speaker B: It's Kaliningrad Time.
+Speaker A: And what about the Eastern Europe?",Europe is a continent located in the Eastern part of the world. It has a rich history and is currently in the Kaliningrad time zone.
+"['<subj>Vanadium<rel>instance of<obj>Metal', '<subj>Metal<rel>subclass of<obj>Material', '<subj>Metal<rel>subclass of<obj>Alloy']","Vanadium is an instance of Metal, which is a subclass of Material and Alloy.","Speaker A: Hey, I was looking into the... um... the Vanadium.
+ Speaker B: Oh, yeah? The Vanadium... where is that?
+ Speaker A: Well, its instance of is Metal.
+ Speaker B: Metal, right. And, uh, what about its subclass of?
+ Speaker A: Let's see... the subclass of is Material.
+ Speaker B: Material. Got it. And... like","Vanadium is an instance of the Metal class, which is a subclass of the Material class and also a subclass of the Alloy class."
+"['<subj>Astrobiology<rel>subclass of<obj>Astronomy', '<subj>Astronomy<rel>history of topic<obj>History_of_astronomy', '<subj>Astronomy<rel>subclass of<obj>Outline_of_physical_science']",Astrobiology is a subclass of Astronomy. The history of Astronomy is the History of astronomy. Astronomy is a subclass of Outline of physical science.,"Speaker A: Hey, I was looking into the... um... the University of Mannheim.
+ Speaker B: Oh, yeah? The University of Mannheim... where is that?
+ Speaker A: Well, its country is Germany.
+ Speaker B: Germany, right. And, uh, what about its ranking?
+ Speaker A: Let's see... the ranking is 423.
+ Speaker B: 423. Got","Astrobiology is a sub-field of astronomy, which is a branch of physical science. The history of astronomy dates back thousands of years, and it continues to be an important area of study today."
+"['<subj>Paul_Otlet<rel>occupation<obj>Lawyer', '<subj>Paul_Otlet<rel>occupation<obj>Writer', '<subj>Paul_Otlet<rel>occupation<obj>Librarian']","Paul Otlet was a lawyer, writer, and librarian.","Paul Otlet was a lawyer, writer and librarian.","Paul Otlet was a lawyer, writer, and librarian. He was a pioneer in the field of information science and is considered the father of documentation. He was a prolific writer and published numerous books and articles on the subject. He was also a librarian and worked to improve library services."
+"['<subj>Germany<rel>located in or next to body of water<obj>Baltic_Sea', '<subj>Baltic_Sea<rel>basin country<obj>Germany', '<subj>Baltic_Sea<rel>basin country<obj>Russia', '<subj>Baltic_Sea<rel>basin country<obj>Finland']","Germany is located in or next to the Baltic Sea. The Baltic Sea is a basin country of Germany, Russia, and Finland.","Speaker A: Hey, I was looking into the... um... the Baltic Sea.
+ Speaker B: Oh, yeah? The Baltic Sea... where is that?
+ Speaker A: Well, its located in or next to body of water is Germany.
+ Speaker B: Germany, right. And, uh, what about its basin country?
+ Speaker A: Let's see... the basin country is Germany.
+ Speaker B: Germany","Germany is located next to the Baltic Sea, which is also bordered by Russia and Finland."
+"['<subj>World_War_II<rel>instance of<obj>World_war', '<subj>World_War_II<rel>has cause<obj>Adolf_Hitler', '<subj>World_War_II<rel>has cause<obj>Causes_of_World_War_II', '<subj>World_War_II<rel>has cause<obj>Treaty_of_Versailles']","World War II, an instance of a world war, was caused by Adolf Hitler and the Causes of World War II, as well as the Treaty of Versailles.","Speaker A: Hey, I was looking into the... um... the World War II.
+ Speaker B: Oh, yeah? The World War II... what is it?
+ Speaker A: Well, its instance of is World war.
+ Speaker B: World war, right. And, uh, what about its cause?
+ Speaker A: Let's see... the cause is Adolf Hitler.
+ Speaker B: Adolf Hitler. Got it. And...","World War II was a global war that lasted from 1939 to 1945. It was the largest and deadliest war in history, with over 70 million people killed. The war was fought between the Allies and the Axis powers, with Adolf Hitler and the Treaty of Versailles being two of the main causes."
+"['<subj>Tours<rel>instance of<obj>Communes_of_France', '<subj>Tours<rel>shares border with<obj>La_Riche', '<subj>Tours<rel>shares border with<obj>Joué-lès-Tours', '<subj>Joué-lès-Tours<rel>twinned administrative body<obj>Santa_Maria_da_Feira']",Tours is an instance of Communes of France. It shares borders with La Riche and Joué-lès-Tours. Joué-lès-Tours is twinned with Santa Maria da Feira.,"Speaker A: Hey, I was looking into the... um... the Tours.
+ Speaker B: Oh, yeah? The Tours... where is that?
+ Speaker A: Well, its instance of is Communes of France.
+ Speaker B: Communes of France, right. And, uh, what about its shares border with?
+ Speaker A: Let's see... the shares border with is La Riche.
+ Speaker B: La","Tours, a commune in France, shares borders with La Riche and Joué-lès-Tours. Joué-lès-Tours is twinned with Santa Maria da Feira."
+"['<subj>Groningen<rel>twinned administrative body<obj>Kaliningrad', '<subj>Kaliningrad<rel>contains administrative territorial entity<obj>Leningradsky_Administrative_District,_Kaliningrad']","Groningen is twinned with the administrative body of Kaliningrad. Kaliningrad contains the administrative territorial entity of Leningradsky Administrative District, Kaliningrad.","Speaker A: Hey, I was looking into the... um... the Groningen.
+ Speaker B: Oh, yeah? The Groningen... where is that?
+ Speaker A: Well, its twinned administrative body is Kaliningrad.
+ Speaker B: Kaliningrad, right. And, uh, what about its contains administrative territorial entity?
+ Speaker A: Let's see... the contains administrative territorial entity is Leningradsky Administrative","Groningen is twinned with Kaliningrad, which contains the Leningradsky Administrative District."
+"['<subj>Charles_Baudelaire<rel>influenced by<obj>Edgar_Allan_Poe', '<subj>Edgar_Allan_Poe<rel>place of birth<obj>Boston']",Charles Baudelaire was influenced by Edgar Allan Poe. Edgar Allan Poe was born in Boston.,"Speaker A: Charles Baudelaire was influenced by Edgar Allan Poe.
+Speaker B: Really? I didn't know that. Where was Edgar Allan Poe born?
+Speaker A: He was born in Boston.","Charles Baudelaire was influenced by Edgar Allan Poe, who was born in Boston."
+"['<subj>Solar_System<rel>parent astronomical body<obj>Sagittarius_A*', '<subj>Sagittarius_A*<rel>discoverer or inventor<obj>Robert_Hanbury_Brown', '<subj>Robert_Hanbury_Brown<rel>occupation<obj>Physicist', '<subj>Physicist<rel>instance of<obj>Profession', '<subj>Physicist<rel>field of this occupation<obj>Physics']",The Solar System is a parent astronomical body of Sagittarius A*. Robert Hanbury Brown is the discoverer or inventor of Sagittarius A*. Robert Hanbury Brown is a physicist. A physicist is an instance of a profession. Physics is the field of this occupation.,"Speaker A: Hey, did you know that the Solar System has a parent astronomical body?
+ Speaker B: Really? What is it?
+ Speaker A: It's Sagittarius A*.
+ Speaker B: Sagittarius A*? I've never heard of it.
+ Speaker A: Well, it was discovered by Robert Hanbury Brown.
+ Speaker B: Robert Hanbury Brown? Who is he?
+ Speaker","The Solar System is a parent astronomical body of Sagittarius A*, which was discovered by Robert Hanbury Brown, a physicist. Physicists are professionals who work in the field of physics."
+"['<subj>Fungus<rel>Code of nomenclature<obj>International_Code_of_Nomenclature_for_algae,_fungi,_and_plants', '<subj>Fungus<rel>taxon rank<obj>Kingdom_(biology)', '<subj>Fungus<rel>parent taxon<obj>Holomycota', '<subj>Holomycota<rel>instance of<obj>Clade', '<subj>Fungus<rel>instance of<obj>Taxon']","Fungi are a kingdom of organisms that are classified under the International Code of Nomenclature for algae, fungi, and plants. They are a taxon rank under the kingdom of Holomycota, which is an instance of the clade. Fungi are also an instance of the taxon.",,"Fungi are a kingdom of organisms that are classified under the International Code of Nomenclature for algae, fungi, and plants. They are a part of the Holomycota clade, which is a taxon that includes all fungi."
+"['<subj>George_Washington<rel>father<obj>Augustine_Washington', '<subj>Augustine_Washington<rel>child<obj>Betty_Washington_Lewis']","George Washington, the father of Augustine Washington, was born on February 22, 1732. Augustine Washington, the father of Betty Washington Lewis, was born on November 17, 1718.",George Washington's father was Augustine Washington. Augustine Washington had a child named Betty Washington Lewis.,"George Washington's father, Augustine Washington, had a child named Betty Washington Lewis."
+"['<subj>Antarctica<rel>instance of<obj>Continent', '<subj>Antarctica<rel>instance of<obj>Region', '<subj>Antarctica<rel>located in time zone<obj>UTC+07:00', '<subj>Antarctica<rel>located in time zone<obj>UTC+03:00']",Antarctica is an instance of a continent and a region. It is located in time zones UTC+07:00 and UTC+03:00.,Antarctica is a continent. It is located in time zone UTC+07:00 and UTC+03:00.,Antarctica is a continent located in the Southern Hemisphere. It is the fifth-largest continent in the world and is surrounded by the Southern Ocean. It is located in the UTC+07:00 and UTC+03:00 time zones.
+"['<subj>Lille<rel>country<obj>France', '<subj>Lille<rel>located in the administrative territorial entity<obj>Arrondissement_of_Lille']","Lille is a city located in France, specifically in the administrative territorial entity of Arrondissement of Lille.",,"Lille is a city located in the administrative territorial entity of Arrondissement of Lille, in the country of France."
+"['<subj>George_W._Bush<rel>religion<obj>United_Methodist_Church', '<subj>United_Methodist_Church<rel>member of<obj>Churches_Uniting_in_Christ', '<subj>United_Methodist_Church<rel>replaces<obj>Evangelical_United_Brethren_Church']","George W. Bush, a United Methodist Church member, is a member of the Churches Uniting in Christ. The United Methodist Church replaces the Evangelical United Brethren Church.","Speaker A: Hey, did you know that George W. Bush is a member of the United Methodist Church?
+Speaker B: Really? I didn't know that.
+Speaker A: Yeah, he is. And the United Methodist Church is a member of Churches Uniting in Christ.
+Speaker B: Oh, that's interesting. And what about the Evangelical United Brethren Church?
+Speaker A: Well, the United","George W. Bush is a member of the United Methodist Church, which is a part of the Churches Uniting in Christ. The United Methodist Church replaced the Evangelical United Brethren Church."
+"['<subj>The_Intouchables<rel>production company<obj>Gaumont_Film_Company', '<subj>Gaumont_Film_Company<rel>country<obj>France', '<subj>France<rel>emergency phone number<obj>112_(emergency_telephone_number)', '<subj>112_(emergency_telephone_number)<rel>country<obj>Andorra', '<subj>Gaumont_Film_Company<rel>instance of<obj>Organization', '<subj>Gaumont_Film_Company<rel>headquarters location<obj>Neuilly-sur-Seine', '<subj>Gaumont_Film_Company<rel>headquarters location<obj>Paris', '<subj>Gaumont_Film_Company<rel>founded by<obj>Léon_Gaumont', '<subj>Gaumont_Film_Company<rel>industry<obj>Film_industry']","The Gaumont Film Company, a French production company, was founded by Léon Gaumont. The company is headquartered in Neuilly-sur-Seine, Paris. The emergency phone number for France is 112.",,"The Intouchables, produced by Gaumont Film Company, is a French film. In France, the emergency phone number is 112, while in Andorra it is 112. Gaumont Film Company is an organization headquartered in Neuilly-sur-Seine and Paris, founded by Léon Gaumont."
+"['<subj>Malta<rel>named after<obj>Honey', '<subj>Malta<rel>instance of<obj>Sovereign_state']",Malta is named after honey. It is an instance of a sovereign state.,Malta is named after honey. It is an instance of a sovereign state.,"Malta, the honey-named country, is a sovereign state located in the Mediterranean Sea. #Malta #Honey #SovereignState"
+"['<subj>Penis<rel>has part<obj>Foreskin', '<subj>Foreskin<rel>part of<obj>Penis', '<subj>Foreskin<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary']",The foreskin is a part of the penis. It is described by the Brockhaus and Efron Encyclopedic Dictionary.,The foreskin is a part of the penis. It is described by the Brockhaus and Efron Encyclopedic Dictionary.,"The foreskin is a part of the penis, as described by the Brockhaus and Efron Encyclopedic Dictionary."
+"['<subj>Pioneer_plaque<rel>instance of<obj>Data_storage', '<subj>Data_storage<rel>subclass of<obj>Media_(communication)', '<subj>Media_(communication)<rel>has part<obj>Matter', '<subj>Media_(communication)<rel>used by<obj>Mass_media', '<subj>Matter<rel>has quality<obj>State_of_matter', '<subj>Matter<rel>has quality<obj>Temperature', '<subj>Matter<rel>part of<obj>Observable_universe']","The Pioneer plaque is an instance of data storage, which is a subclass of media (communication). Media (communication) has part matter, which is used by mass media. Matter has quality state of matter and temperature, and is part of the observable universe.",The Pioneer plaque is an instance of data storage. Data storage is a subclass of media communication. Media communication has part matter. Media communication is used by mass media. Matter has quality state of matter. Matter has quality temperature. Matter is part of observable universe.,The Pioneer plaque is a type of data storage that is a subclass of media communication. It is used by mass media and has qualities such as state of matter and temperature.
+"['<subj>Champs-Élysées<rel>located in the administrative territorial entity<obj>Paris', '<subj>Champs-Élysées<rel>instance of<obj>Tourist_attraction']",The Champs-Élysées is a tourist attraction located in the administrative territorial entity of Paris.,"Speaker A: Hey, I was looking into the... um... the Champs-Élysées.
+ Speaker B: Oh, yeah? The Champs-Élysées... where is that?
+ Speaker A: Well, its located in the administrative territorial entity is Paris.
+ Speaker B: Paris, right. And, uh, what about its instance of?
+ Speaker A: Let's see... the instance of is Tourist_",The Champs-Élysées is a famous tourist attraction located in the administrative territorial entity of Paris.
+"['<subj>Wikidata<rel>operator<obj>Wikimedia_Foundation', '<subj>Wikimedia_Foundation<rel>country<obj>United_States', '<subj>United_States<rel>participant in<obj>Atomic_bombings_of_Hiroshima_and_Nagasaki']","Wikidata is operated by the Wikimedia Foundation, which is based in the United States. The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki.","Speaker A: Hey, I was looking into the... um... the Wikidata.
+ Speaker B: Oh, yeah? The Wikidata... where is that?
+ Speaker A: Well, its country is United States.
+ Speaker B: United States, right. And, uh, what about its operator?
+ Speaker A: Let's see... the operator is Wikimedia Foundation.
+ Speaker B: Wikimedia Foundation. Got it. And... like","Wikidata is operated by the Wikimedia Foundation, which is based in the United States. The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki."
+"['<subj>Douglas_Adams<rel>instance of<obj>Human', '<subj>Douglas_Adams<rel>occupation<obj>Playwright']","Douglas Adams, an instance of a human, was a playwright.","Speaker A: Hey, I was looking into the... um... the Douglas Adams.
+ Speaker B: Oh, yeah? The Douglas Adams... where is that?
+ Speaker A: Well, its instance of is Human.
+ Speaker B: Human, right. And, uh, what about its occupation?
+ Speaker A: Let's see... the occupation is Playwright.
+ Speaker B: Playwright. Got it. And... like",Douglas Adams was a human playwright.
+"['<subj>Prose<rel>described by source<obj>Granat_Encyclopedic_Dictionary', '<subj>Granat_Encyclopedic_Dictionary<rel>instance of<obj>Encyclopedic_dictionary']","The Granat Encyclopedic Dictionary is a Russian encyclopedic dictionary. It was published in 1910-1913, and was the first Russian encyclopedic dictionary. It was published in 11 volumes, and was edited by Vladimir Granat. The dictionary is described by the source as ""a monumental work, which has no equal in the world"".","Speaker A: Hey, I was looking into the... um... the Prose.
+ Speaker B: Oh, yeah? The Prose... what about it?
+ Speaker A: Well, its described by source is Granat Encyclopedic Dictionary.
+ Speaker B: Granat Encyclopedic Dictionary, right. And, uh, what about its instance of?
+ Speaker A: Let's see... the instance of is Encyclopedic dictionary.
+ Speaker B",Granat Encyclopedic Dictionary describes Prose as an instance of Encyclopedic Dictionary.
+"['<subj>Portugal<rel>continent<obj>Europe', '<subj>Europe<rel>history of topic<obj>History_of_Europe', '<subj>Europe<rel>located in time zone<obj>Kaliningrad_Time', '<subj>Europe<rel>has part<obj>Eastern_Europe', '<subj>Eastern_Europe<rel>has part<obj>Poland']",Portugal is a country located in the continent of Europe. The history of Europe is a topic that has been studied for centuries. Europe is located in the time zone of Kaliningrad Time. Eastern Europe is a part of Europe and has the country of Poland as a part of it.,"Speaker A: Hey, do you know where Portugal is?
+Speaker B: Yeah, it's in Europe.
+Speaker A: Oh, Europe. I heard that it has a long history.
+Speaker B: Yeah, the history of Europe is very long.
+Speaker A: And, uh, what about the time zone?
+Speaker B: The time zone is Kaliningrad Time.
+Speaker A: And, uh,","Portugal is a country located in Europe, which has a rich history and is located in the Kaliningrad Time zone. Eastern Europe is a part of Europe and has countries like Poland."
+"['<subj>Jack_Bauer<rel>educated at<obj>University_of_California,_Berkeley', '<subj>Jack_Bauer<rel>educated at<obj>Officer_Candidate_School_(United_States_Army)', '<subj>Jack_Bauer<rel>educated at<obj>University_of_California,_Los_Angeles', '<subj>University_of_California,_Los_Angeles<rel>instance of<obj>Campus']","Jack Bauer was educated at the University of California, Berkeley, Officer Candidate School (United States Army), and the University of California, Los Angeles. The University of California, Los Angeles is an instance of a campus.","Jack Bauer was educated at the University of California, Berkeley. He was also educated at the Officer Candidate School (United States Army). And he was educated at the University of California, Los Angeles. The University of California, Los Angeles is an instance of a campus.","Jack Bauer is a highly educated individual, having attended the University of California, Berkeley, Officer Candidate School (United States Army), and the University of California, Los Angeles. The University of California, Los Angeles is a campus that offers a wide range of academic programs."
+['<subj>Hydraulic_ram<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary'],The hydraulic ram was described by the Brockhaus and Efron Encyclopedic Dictionary.,The hydraulic ram is described by the Brockhaus and Efron Encyclopedic Dictionary.,The Hydraulic ram was described by the Brockhaus and Efron Encyclopedic Dictionary.
+"['<subj>Oslo<rel>country<obj>Norway', '<subj>Norway<rel>emergency phone number<obj>112_(emergency_telephone_number)', '<subj>Norway<rel>office held by head of government<obj>Prime_Minister_of_Norway']",Oslo is the capital of Norway. The emergency phone number in Norway is 112. The office held by the head of government in Norway is Prime Minister of Norway.,"Speaker A: Hey, I was looking into the... um... the country of Oslo.
+ Speaker B: Oh, yeah? The country of Oslo... where is that?
+ Speaker A: Well, its country is Norway.
+ Speaker B: Norway, right. And, uh, what about its emergency phone number?
+ Speaker A: Let's see... the emergency phone number is 112.
+ Speaker B:","Oslo is the capital of Norway, which has an emergency phone number of 112 and a Prime Minister as its head of government."
+"['<subj>Anatomy<rel>part of<obj>Biology', '<subj>Anatomy<rel>part of<obj>Medicine', '<subj>Anatomy<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Anatomy<rel>described by source<obj>Encyclopædia_Britannica_Eleventh_Edition', '<subj>Anatomy<rel>described by source<obj>Realencyclopädie_der_classischen_Altertumswissenschaft']","Anatomy is a branch of biology and medicine that deals with the study of the structure of living things. It is described by sources such as the Brockhaus and Efron Encyclopedic Dictionary, the Encyclopædia Britannica Eleventh Edition, and the Realencyclopädie der classischen Altertumswissenschaft.","Speaker A: Hey, I was looking into the... um... the Anatomy.
+ Speaker B: Oh, yeah? The Anatomy... where is that?
+ Speaker A: Well, its part of Biology.
+ Speaker B: Biology, right. And, uh, what about its part of Medicine?
+ Speaker A: Let's see... the part of Medicine is Medicine.
+ Speaker B: Medicine. Got it. And","Anatomy is a branch of biology and medicine that deals with the study of the structure of living things. It is described in sources such as the Brockhaus and Efron Encyclopedic Dictionary, Encyclopædia Britannica Eleventh Edition, and Realencyclopädie der classischen Altertumswissenschaft."
+"[""<subj>All_Saints'_Day<rel>described by source<obj>Catholic_Encyclopedia"", '<subj>Catholic_Encyclopedia<rel>instance of<obj>Book_series', '<subj>Catholic_Encyclopedia<rel>genre<obj>Encyclopedia']","All Saints' Day is described by the Catholic Encyclopedia, which is an instance of a book series and a genre of encyclopedia.",All Saints' Day is described by source Catholic Encyclopedia. Catholic Encyclopedia is an instance of Book series. Catholic Encyclopedia is a genre Encyclopedia.,"All Saints' Day is a Christian holiday celebrated on November 1st. It is a day to remember and honor all the saints, both known and unknown. The Catholic Encyclopedia describes it as a day of ""universal commemoration of all the saints of Christendom, whether their feasts are kept or not, and whether they be known or unknown."" The Catholic Encyclopedia is a book series that was first published in 1907. It is an encyc"
+"['<subj>Bahrain<rel>instance of<obj>Sovereign_state', '<subj>Sovereign_state<rel>subclass of<obj>State_(polity)']",Bahrain is an instance of a sovereign state. A sovereign state is a subclass of a state polity.,Bahrain is a sovereign state. It is a subclass of state.,"Bahrain is a sovereign state, a type of state that is independent and has its own government. It is a subclass of the State (polity) class."
+"['<subj>Planet<rel>subclass of<obj>Substellar_object', '<subj>Planet<rel>parent astronomical body<obj>Star_system', '<subj>Star_system<rel>subclass of<obj>Astronomical_object', '<subj>Star_system<rel>child astronomical body<obj>Planet', '<subj>Star_system<rel>different from<obj>Planetary_system']","A planet is a subclass of a substellar object, which is a subclass of an astronomical object. A star system is a subclass of an astronomical object and has a planet as its child astronomical body. A star system is different from a planetary system.","Speaker A: Hey, I was looking into the... um... the Planet.
+ Speaker B: Oh, yeah? The Planet... where is that?
+ Speaker A: Well, its parent astronomical body is Star system.
+ Speaker B: Star system, right. And, uh, what about its subclass of?
+ Speaker A: Let's see... the subclass of is Substellar object.
+ Speaker B: Substellar object. Got","A planet is a sub-stellar object that orbits a star. It is different from a star system, which is a collection of stars and planets. A star system can have multiple planets, and a planet can be a child of a star system."
+"['<subj>Flower<rel>different from<obj>Malva', '<subj>Flower<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Malva<rel>different from<obj>Flower', '<subj>Flower<rel>described by source<obj>Encyclopædia_Britannica_Eleventh_Edition', '<subj>Flower<rel>use<obj>Plant_reproduction', '<subj>Flower<rel>part of<obj>Shoot']",Flower is different from Malva. It is described by source Brockhaus and Efron Encyclopedic Dictionary. Malva is different from Flower. It is described by source Encyclopædia Britannica Eleventh Edition. Flower is used for Plant reproduction. It is part of Shoot.,"Speaker A: Hey, I was looking into the... um... the flower.
+ Speaker B: Oh, yeah? The flower... where is that?
+ Speaker A: Well, its different from Malva.
+ Speaker B: Malva, right. And, uh, what about its described by source?
+ Speaker A: Let's see... the described by source is Brockhaus and Efron Encyclopedic Dictionary.
+ Speaker B: Bro","Flower is different from Malva, and is described by sources such as Brockhaus and Efron Encyclopedic Dictionary and Encyclopædia Britannica Eleventh Edition. It is also used for plant reproduction and is a part of the shoot."
+"['<subj>Right_angle<rel>facet of<obj>Perpendicular', '<subj>Right_angle<rel>part of<obj>Right_triangle', '<subj>Right_angle<rel>subclass of<obj>Angle']","A right angle is a facet of a perpendicular, and it is a part of a right triangle. It is also a subclass of an angle.",,"Discover the world of Right Angles! 🔺 They are facets of perpendiculars, parts of right triangles, and subclasses of angles. #RightAngle #Geometry #Mathematics"
+"['<subj>November<rel>named after<obj>9', '<subj>November<rel>named after<obj>Ahmad_Sanjar', '<subj>November<rel>named after<obj>Animal_slaughter']","November is named after the Roman goddess of agriculture, Ceres. It is also named after the Roman god of war, Mars.","Speaker A: November is named after the 9th month of the year.
+ Speaker B: Oh, I didn't know that.
+ Speaker A: Yeah, it's also named after Ahmad Sanjar.
+ Speaker B: Who's that?
+ Speaker A: He was a Seljuk ruler.
+ Speaker B: Oh, right. And what else is November named after?
+ Speaker A: Animal slaughter","November is named after the Roman goddess of agriculture, Ceres. It is also named after the month of the year when the harvest is traditionally brought in."
+"['<subj>English_Wikipedia<rel>language of work or name<obj>English_language', '<subj>English_language<rel>uses capitalization for<obj>Demonym', '<subj>English_language<rel>uses capitalization for<obj>Religion', '<subj>English_language<rel>uses capitalization for<obj>Religious_denomination', '<subj>English_language<rel>linguistic typology<obj>Subject–verb–object']","English Wikipedia is a work or name written in the English language. The English language uses capitalization for demonyms, religions, and religious denominations. The English language has a linguistic typology of subject-verb-object.","Speaker A: Hey, I was looking into the... um... the English language.
+Speaker B: Oh, yeah? The English language... where is that?
+Speaker A: Well, its language of work or name is English Wikipedia.
+Speaker B: English Wikipedia, right. And, uh, what about its uses capitalization for?
+Speaker A: Let's see... the uses capitalization for is Demonym.
+Speaker B:","English Wikipedia uses English language, which uses capitalization for demonym, religion, and religious denomination. English language has a subject-verb-object linguistic typology."
+"[""<subj>China<rel>central bank<obj>People's_Bank_of_China"", '<subj>China<rel>diplomatic relation<obj>United_States', '<subj>United_States<rel>participant in<obj>Atomic_bombings_of_Hiroshima_and_Nagasaki']",China's central bank is the People's Bank of China. China has a diplomatic relation with the United States. The United States is a participant in the Atomic bombings of Hiroshima and Nagasaki.,"Speaker A: Hey, I was looking into the... um... the China.
+ Speaker B: Oh, yeah? The China... where is that?
+ Speaker A: Well, its central bank is People's Bank of China.
+ Speaker B: People's Bank of China, right. And, uh, what about its diplomatic relation?
+ Speaker A: Let's see... the diplomatic relation is United States.
+ Speaker B",China has a central bank called the People's Bank of China. The United States and China have a diplomatic relationship. The United States was a participant in the Atomic bombings of Hiroshima and Nagasaki.
+"['<subj>Neil_Young<rel>occupation<obj>Film_director', '<subj>Film_director<rel>instance of<obj>Profession', '<subj>Profession<rel>practiced by<obj>Professional']",Neil Young is a film director. Film directors are professionals.,,"Neil Young is a film director, a profession that is practiced by professionals."
+"['<subj>Zoology<rel>part of<obj>Biology', '<subj>Zoology<rel>instance of<obj>Academic_discipline', '<subj>Academic_discipline<rel>said to be the same as<obj>Branches_of_science', '<subj>Zoology<rel>described by source<obj>Brockhaus_and_Efron_Encyclopedic_Dictionary', '<subj>Brockhaus_and_Efron_Encyclopedic_Dictionary<rel>genre<obj>Encyclopedia']","Zoology is a part of biology and an academic discipline. It is said to be the same as branches of science. Zoology is described by the source Brockhaus and Efron Encyclopedic Dictionary, which is a genre of encyclopedia.",Zoology is a part of biology. It is an academic discipline. It is said to be the same as branches of science. Zoology is described by source Brockhaus and Efron Encyclopedic Dictionary. Brockhaus and Efron Encyclopedic Dictionary is a genre encyclopedia.,Zoology is a branch of biology that studies animals. It is an academic discipline and is described by the Brockhaus and Efron Encyclopedic Dictionary. #Zoology #Biology #AcademicDiscipline #Encyclopedia
+"['<subj>Computer<rel>has part<obj>Computer_hardware', '<subj>Computer_hardware<rel>part of<obj>Computer']",Computer hardware is a part of a computer.,,"Computer hardware is an essential part of a computer. It is the physical components that make up a computer, such as the motherboard, processor, memory, storage, and other peripherals. Without computer hardware, a computer would not be able to function."
+"['<subj>Pierre_Corneille<rel>occupation<obj>Poet', '<subj>Pierre_Corneille<rel>occupation<obj>Playwright', '<subj>Pierre_Corneille<rel>place of birth<obj>Rouen', '<subj>Rouen<rel>twinned administrative body<obj>Salerno', '<subj>Poet<rel>subclass of<obj>Writer', '<subj>Writer<rel>subclass of<obj>Author']","Pierre Corneille was a French poet and playwright born in Rouen. Rouen is twinned with Salerno. Poet is a subclass of Writer, which is a subclass of Author.","Speaker A: Hey, do you know Pierre Corneille?
+ Speaker B: Pierre Corneille?
+ Speaker A: Yeah, he is a poet and a playwright.
+ Speaker B: Oh, I see. And where is he from?
+ Speaker A: He is from Rouen.
+ Speaker B: Rouen?
+ Speaker A: Yeah, Rouen.
+ Speaker B: And, uh, is Rouen tw","Pierre Corneille was a French poet and playwright, born in Rouen, France. Rouen is twinned with Salerno, Italy. A poet is a subclass of a writer, and a writer is a subclass of an author."
+"['<subj>Chlorine<rel>subclass of<obj>Halogen', '<subj>Chlorine<rel>described by source<obj>The_Nuttall_Encyclopædia']","Chlorine is a subclass of Halogen. The Nuttall Encyclopædia describes Chlorine as a chemical element with the symbol Cl and atomic number 17. It is a yellow-green gas at room temperature and is a member of the halogen group. Chlorine is a highly reactive element and is used in many industrial processes, including the production of chlorine-based bleaches, disinfectants, and other chemicals.","Chlorine is a chemical element with symbol Cl and atomic number 17. It is a halogen, found in the periodic table in group 17.","Chlorine is a halogen, a group of elements that includes fluorine, bromine, and iodine. It is described by The Nuttall Encyclopædia as a ""greenish-yellow gas, which is heavier than air, and has a pungent, suffocating odour."""
+"['<subj>Yorkshire<rel>country<obj>United_Kingdom', '<subj>United_Kingdom<rel>participant in<obj>Battle_of_Carillon', '<subj>United_Kingdom<rel>participant in<obj>Battle_of_the_Lys_(1918)', '<subj>Battle_of_the_Lys_(1918)<rel>instance of<obj>Battle']",Yorkshire is a county in the United Kingdom. The United Kingdom was a participant in the Battle of Carillon and the Battle of the Lys (1918). The Battle of the Lys (1918) is an instance of a battle.,"Speaker A: Hey, I was looking into the... um... the United Kingdom.
+ Speaker B: Oh, yeah? The United Kingdom... where is that?
+ Speaker A: Well, its country is United Kingdom.
+ Speaker B: United Kingdom, right. And, uh, what about its participant in?
+ Speaker A: Let's see... the participant in is Battle of Carillon.
+ Speaker B: Battle of Carillon","Yorkshire, a county in the United Kingdom, was a participant in the Battle of Carillon and the Battle of the Lys (1918), which was an instance of a battle."
+"['<subj>Mount_Vesuvius<rel>instance of<obj>Stratovolcano', '<subj>Stratovolcano<rel>subclass of<obj>Volcano']","Mount Vesuvius is an instance of a stratovolcano, which is a subclass of a volcano.","Mount Vesuvius is an instance of a stratovolcano. A stratovolcano is a subclass of a volcano.
+
+### Prompt:
+\
+Q: What is the name of the film that James Cameron produced?\
+A: Titanic (1997 film)\
+Q: Who are the main actors of Titanic (1997 film)?\
+A: Leonardo DiCaprio and Kate Wins","Mount Vesuvius is a stratovolcano, a type of volcano that is characterized by steep sides and a conical shape. Stratovolcanoes are a subclass of volcanoes, which are geological features that form when magma from the Earth's mantle rises to the surface and erupts."
